@@ -1,49 +1,1931 @@
 {
-  "jobs": [
+  "status": "OK",
+  "request_id": "3cd82863-a209-4e96-9323-c6d8ab55cccc",
+  "parameters": {
+    "query": "developer",
+    "page": 1,
+    "num_pages": 1
+  },
+  "data": [
     {
+      "employer_name": "RTX",
+      "employer_logo": "https://upload.wikimedia.org/wikipedia/en/3/30/RTX_Raytheon_Technologies_logo.svg",
+      "employer_website": "http://www.rtx.com",
+      "employer_company_type": null,
+      "job_publisher": "RTX - Careers",
+      "job_id": "wOv7lCaImIyBIP1uAAAAAA==",
+      "job_employment_type": "FULLTIME",
+      "job_title": "Applications Developer (Remote)",
+      "job_apply_link": "https://careers.rtx.com/global/en/job/01657345/Applications-Developer-Remote",
+      "job_apply_is_direct": false,
+      "job_apply_quality_score": 0.8987,
+      "apply_options": [
+        {
+          "publisher": "RTX - Careers",
+          "apply_link": "https://careers.rtx.com/global/en/job/01657345/Applications-Developer-Remote",
+          "is_direct": false
+        },
+        {
+          "publisher": "ZipRecruiter",
+          "apply_link": "https://www.ziprecruiter.com/c/Raytheon-Technologies/Job/Senior-Applications-Developer-(Hybrid)/-in-Arlington,VA?jid=626fcc4e4ffcb8a3",
+          "is_direct": false
+        },
+        {
+          "publisher": "Cleared Careers",
+          "apply_link": "https://clearedcareers.com/job/386838/senior-applications-developer-hybrid/",
+          "is_direct": false
+        },
+        {
+          "publisher": "Indeed",
+          "apply_link": "https://www.indeed.com/viewjob?jk=e759c4e2cb203816",
+          "is_direct": false
+        },
+        {
+          "publisher": "Glassdoor",
+          "apply_link": "https://www.glassdoor.com/job-listing/senior-applications-developer-hybrid-raytheon-JV_IC1130337_KO0,36_KE37,45.htm?jl=1009029811104",
+          "is_direct": false
+        },
+        {
+          "publisher": "Ladders",
+          "apply_link": "https://www.theladders.com/job/applications-developer-hybrid-raytheontechnologies-arlington-va_66885292",
+          "is_direct": false
+        },
+        {
+          "publisher": "BeBee",
+          "apply_link": "https://us.bebee.com/job/20240125-1a7d8d7ba5d534d116421f0facf7a1b1",
+          "is_direct": false
+        },
+        {
+          "publisher": "SimplyHired",
+          "apply_link": "https://www.simplyhired.com/job/kejrcfdSqwwX8qB90h3MyvH3Y2JLBUnTBEpD0wGkzjVdLM_mjdj-hQ",
+          "is_direct": false
+        }
+      ],
+      "job_description": "Date Posted:\n2023-10-16\n\nCountry:\nUnited States of America\n\nLocation:\nVA149: 1110 N Glebe Road Arlington 1110 North Glebe Road Suite 630, Arlington, VA, 22201 USA\n\nPosition Role Type:\nHybrid\n\nRaytheon is supporting a U.S. Government customer to provide support for onsite incident response to civilian Government agencies and critical asset owners who experience cyber-attacks, providing immediate investigation and resolution. Contract personnel perform investigations to characterize of the severity of breaches, develop mitigation plans, and assist with the restoration of services. Raytheon is seeking a Mid-level Applications Developer to support this critical customer mission.\n\nResponsibilities:\n\n- Designing, troubleshooting, and implementing software code for end-to-end software development.\n\n- Researches, tests, builds, and coordinates the integration of new requirements to meet organizational needs.\n\n- Initiates action for evaluation and recommendation of application software packages, application integration and testing tools.\n\n- Resolves problems with software and responds to suggestions for improvements and enhancements.\n\n- Coordinates system installation and monitors equipment functioning to ensure operational specifications are met.\n\n- Implements recommendations for improving documentation and development process standards.\n\n- Selects the prototype development process in coordination with customer and system engineering.\n\n- Recommends new technologies and research processes for complex software development projects.\n\n- Design, develop, integrate, and interface with web application RESTful APIs.\n\n- Ensures quality control of all developed and modified prototype software.\n\n- Assists with overseeing one or more software application development teams and ensures the work is completed in accordance with constraints of the software development process being used on any particular project and deliver solutions.\n\nRequired Skills:\n\n- U.S. Citizenship\n\n- Must have an active Secret clearance; TS/SCI is preferred.\n\n- Must be able to obtain DHS Suitability.\n\n- 2+ years of directly relevant experience in applications development.\n\n- Knowledge of secure software development lifecycle and code versioning and maintenance\n\n- Experience with assessing and integrating commercial off the shelf (COTS) products.\n\n- Experience across the entire field of software technologies and engineering, including information, documentation, databases, model and architecture repositories, analysis, training, testing, data synthesis, hardware, software, standards, economic consideration of selecting techniques, and processes, and interoperability.\n\n- Knowledge and familiarity to work with the installation, demonstration, test, validation and evaluation of new and existing software, tools, methods, and software measurement technologies.\n\n- Must be able to work collaboratively across physical locations.\n\nDesired Skills:\n\n- Experience with two or more of the following: Python, React, JavaScript, Go, Silk, JSON, Data Analytics, MongoDB, Splunk, Elastic Search, Postgres, Ansible, HTML, View Jazz Framework, Jenkins, Process Automation, UI Development.\n\nRequired Education:\n\nBS Computer Science, Computer Engineering, Computer Information Systems, Computer Systems Engineering or related degree. 6+ years of application development experience with a High School diploma can substitute for a degree and 2+ years of experience.\n\nDesired Certifications:\n\n- CSSLP, Security+\n\nHIRTRIS\n\n#RISCyber\n\n#RISHIRT\n\nThe salary range for this role is 64,000 USD - 128,000 USD. The salary range provided is a good faith estimate representative of all experience levels. RTX considers several factors when extending an offer, including but not limited to, the role, function and associated responsibilities, a candidate’s work experience, location, education/training, and key skills.\n\nHired applicants may be eligible for benefits, including but not limited to, medical, dental, vision, life insurance, short-term disability, long-term disability, 401(k) match, flexible spending accounts, flexible work schedules, employee assistance program, Employee Scholar Program, parental leave, paid time off, and holidays. Specific benefits are dependent upon the specific business unit as well as whether or not the position is covered by a collective-bargaining agreement.\n\nHired applicants may be eligible for annual short-term and/or long-term incentive compensation programs depending on the level of the position and whether or not it is covered by a collective-bargaining agreement. Payments under these annual programs are not guaranteed and are dependent upon a variety of factors including, but not limited to, individual performance, business unit performance, and/or the company’s performance.\n\nThis role is a U.S.-based role. If the successful candidate resides in a U.S. territory, the appropriate pay structure and benefits will apply.\n\nRTX anticipates the application window closing approximately 40 days from the date the notice was posted. However, factors such as candidate flow and business necessity may require RTX to shorten or extend the application window.\n\nRTX is An Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or veteran status, age or any other federally protected class.\n\nPrivacy Policy and Terms:\n\nClick on this link to read the Policy and Terms",
+      "job_is_remote": false,
+      "job_posted_at_timestamp": 1706572800,
+      "job_posted_at_datetime_utc": "2024-01-30T00:00:00.000Z",
+      "job_city": "Arlington",
+      "job_state": "VA",
+      "job_country": "US",
+      "job_latitude": 38.87997,
+      "job_longitude": -77.10677,
+      "job_benefits": [
+        "dental_coverage",
+        "health_insurance",
+        "paid_time_off",
+        "retirement_savings"
+      ],
+      "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=developer&htidocid=wOv7lCaImIyBIP1uAAAAAA%3D%3D",
+      "job_offer_expiration_datetime_utc": null,
+      "job_offer_expiration_timestamp": null,
+      "job_required_experience": {
+        "no_experience_required": false,
+        "required_experience_in_months": 72,
+        "experience_mentioned": true,
+        "experience_preferred": false
+      },
+      "job_required_skills": null,
+      "job_required_education": {
+        "postgraduate_degree": false,
+        "professional_certification": false,
+        "high_school": false,
+        "associates_degree": false,
+        "bachelors_degree": false,
+        "degree_mentioned": true,
+        "degree_preferred": true,
+        "professional_certification_mentioned": true
+      },
+      "job_experience_in_place_of_education": false,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_currency": null,
+      "job_salary_period": null,
+      "job_highlights": {
+        "Qualifications": [
+          "U.S. Citizenship",
+          "Must be able to obtain DHS Suitability",
+          "2+ years of directly relevant experience in applications development",
+          "Knowledge of secure software development lifecycle and code versioning and maintenance",
+          "Experience with assessing and integrating commercial off the shelf (COTS) products",
+          "Experience across the entire field of software technologies and engineering, including information, documentation, databases, model and architecture repositories, analysis, training, testing, data synthesis, hardware, software, standards, economic consideration of selecting techniques, and processes, and interoperability",
+          "Knowledge and familiarity to work with the installation, demonstration, test, validation and evaluation of new and existing software, tools, methods, and software measurement technologies",
+          "Must be able to work collaboratively across physical locations",
+          "BS Computer Science, Computer Engineering, Computer Information Systems, Computer Systems Engineering or related degree",
+          "6+ years of application development experience with a High School diploma can substitute for a degree and 2+ years of experience"
+        ],
+        "Responsibilities": [
+          "Contract personnel perform investigations to characterize of the severity of breaches, develop mitigation plans, and assist with the restoration of services",
+          "Designing, troubleshooting, and implementing software code for end-to-end software development",
+          "Researches, tests, builds, and coordinates the integration of new requirements to meet organizational needs",
+          "Initiates action for evaluation and recommendation of application software packages, application integration and testing tools",
+          "Resolves problems with software and responds to suggestions for improvements and enhancements",
+          "Coordinates system installation and monitors equipment functioning to ensure operational specifications are met",
+          "Implements recommendations for improving documentation and development process standards",
+          "Selects the prototype development process in coordination with customer and system engineering",
+          "Recommends new technologies and research processes for complex software development projects",
+          "Design, develop, integrate, and interface with web application RESTful APIs",
+          "Ensures quality control of all developed and modified prototype software",
+          "Assists with overseeing one or more software application development teams and ensures the work is completed in accordance with constraints of the software development process being used on any particular project and deliver solutions"
+        ],
+        "Benefits": [
+          "The salary range provided is a good faith estimate representative of all experience levels",
+          "Hired applicants may be eligible for benefits, including but not limited to, medical, dental, vision, life insurance, short-term disability, long-term disability, 401(k) match, flexible spending accounts, flexible work schedules, employee assistance program, Employee Scholar Program, parental leave, paid time off, and holidays",
+          "Specific benefits are dependent upon the specific business unit as well as whether or not the position is covered by a collective-bargaining agreement",
+          "Hired applicants may be eligible for annual short-term and/or long-term incentive compensation programs depending on the level of the position and whether or not it is covered by a collective-bargaining agreement",
+          "Payments under these annual programs are not guaranteed and are dependent upon a variety of factors including, but not limited to, individual performance, business unit performance, and/or the company’s performance"
+        ]
+      },
+      "job_job_title": null,
+      "job_posting_language": "en",
+      "job_onet_soc": "15113200",
+      "job_onet_job_zone": "4",
+      "job_occupational_categories": [
+        "Digital Technology"
+      ]
+    },
+    {
+      "employer_name": "LEIDOS",
+      "employer_logo": "https://www.leidos.com/themes/custom/leidos/logo.png",
+      "employer_website": "http://www.leidos.com",
+      "employer_company_type": "Computer Services",
+      "job_publisher": "SaluteMyJob",
+      "job_id": "G3oZuJGTjmUP5MvPAAAAAA==",
+      "job_employment_type": "FULLTIME",
+      "job_title": "Web Developer",
+      "job_apply_link": "https://salutemyjob.com/jobs/web-developer-great-falls-virginia/1223911898-2/",
+      "job_apply_is_direct": false,
+      "job_apply_quality_score": 0.5761,
+      "apply_options": [
+        {
+          "publisher": "SaluteMyJob",
+          "apply_link": "https://salutemyjob.com/jobs/web-developer-great-falls-virginia/1223911898-2/",
+          "is_direct": false
+        },
+        {
+          "publisher": "KNWA & FOX24 Jobs",
+          "apply_link": "https://jobs.nwahomepage.com/jobs/web-developer-great-falls-virginia/1223911898-2/",
+          "is_direct": false
+        },
+        {
+          "publisher": "KHON2 Jobs",
+          "apply_link": "https://jobs.khon2.com/jobs/web-developer-great-falls-virginia/1223911898-2/",
+          "is_direct": false
+        },
+        {
+          "publisher": "My Stateline Jobs",
+          "apply_link": "https://jobs.mystateline.com/jobs/web-developer-great-falls-virginia/1223911898-2/",
+          "is_direct": false
+        },
+        {
+          "publisher": "KSNT Jobs",
+          "apply_link": "https://jobs.ksnt.com/jobs/web-developer-great-falls-virginia/1223911898-2/",
+          "is_direct": false
+        },
+        {
+          "publisher": "Big Country Jobs",
+          "apply_link": "https://jobs.bigcountryhomepage.com/jobs/web-developer-great-falls-virginia/1223911898-2/",
+          "is_direct": false
+        },
+        {
+          "publisher": "WJTV Jobs",
+          "apply_link": "https://jobs.wjtv.com/jobs/web-developer-great-falls-virginia/1223911898-2/",
+          "is_direct": false
+        },
+        {
+          "publisher": "Star Job Search",
+          "apply_link": "https://starjobsearch.co.uk/jobs/web-developer-great-falls-virginia/1223911898-2/",
+          "is_direct": false
+        }
+      ],
+      "job_description": "Description\n\nAt Leidos, everything we do is built on our commitment to do the right thing for our customers, our employees, and our communities. Our mission is to make the world safer, healthier, and more efficient through information technology, engineering, and science.\n\nLeidos National Security Sector is seeking a Web Developer to support an enterprise IT program. We are looking for a developer that has done coding in Java and Angular as well as WordPress/Talkabout when necessary for internal projects. The Web Developer will work across multiple applications providing new development and O&M support. A successful candidate should be comfortable providing first line customer support from time to time to provide application support when needed.\n\nA current and active TS/SCI with Polygraph security clearance is required for this position. We do not have the ability to sponsor clearance processing for this role.\n\nPrimary Responsibilities\n\nThe client requires a Web Developer to join a team of three others to support to perform Operations and Maintenance (O&M) and development activities for websites and applications developed by the client team. This includes assessments and consultations on the design of Java web tools, O&M of existing applications, server management, and development of new applications. Applications reside in physical environments and the client's cloud environment. Client management shall set the priorities. The Web Developer shall:\n• Work closely with project manager, development team, information system security manager; however, the client project manager will manage the priorities.\n• Provide occasional on call duty as needed.\n• Assess and validate Software requirements across the client organization.\n• Provide architectural design and web development support to meet web application requirements.\n• Participate in software design discussions and recommend implementation of the tools, technologies and techniques.\n• Redesign the existing Web, Software or SharePoint applications to add new features, optimize, scale or improve stability and performance.\n• Create, manage, and maintain software systems in AWS.\n• Provide O&M and content management support for client's Web, software and SharePoint Sites.\n• Work within Agile project management methodologies.\n\nBasic Qualifications\n• Active/current TS/SCI with Polygraph security clearance.\n• Availability for periodic overnight travel to southeastern Virginia.\n• Demonstrated experience developing, deploying, and maintaining software applications and systems.\n• Demonstrated experience identifying and validating requirements for SharePoint sites, Software or Web sites.\n• Demonstrated experience working in cloud AWS architecture.\n• Demonstrated experience adding new features, optimizing, scaling, or improving stability and performance of applications, SharePoint or Web.\n• Demonstrated experience using JavaScript (JS).\n• Java (e.g., Springboot, Maven, Apache), Typescript (e.g., Angular, NestJS, React, Vue), Javascript (NodeJS, Express, etc.), AWS Cloud Services (S3, RDS, SQS, Lambda, EC2, etc.), CI/CD familiarization, Linux proficiency.\n• Experience with MySQL or equivalent (Postgres, SQL), developing complex data models, optimizing queries, and using Object Relational Mapping (ORM) frameworks such as TypeORM for typescript.\n\nPreferred Qualifications\n• Demonstrated experience with software application development.\n• Demonstrated experience with Web development.\n• Demonstrated experience as a programming with HTML.\n• Demonstrated experience Java Spring/Spring boot.\n• Demonstrated experience with WordPress.\n• Demonstrated experience developing and administering Windows based applications.\n• Demonstrated experience developing and administering Linux applications.\n• Demonstrated experience with client's applications at this location, to include the visitor request system and student record management systems.\n• Demonstrated experience with SharePoint Administration.\n• UI/UX expertise, CSS frameworks (Material, Bootstrap, etc.)\n• Experience with caching systems such as Redis, Memcache.\n• Expert proficiency with software design patterns and best practices (singleton, decorator, decoupling, domain-driven).\n• Current project scope: Ground-up redesign and development of a full-stack web application using Angular and NestJS, along with RDS MySql, SE, EC2.\n• Self-starter, works under limited guidance and well with ambiguity.\n• Strong critical thinking skills, test-driven development, object-oriented solid development foundation.\n\nPay Range:\nPay Range $108,550.00 - $196,225.00\n\nThe Leidos pay range for this job level is a general guideline only and not a guarantee of compensation or salary. Additional factors considered in extending an offer include (but are not limited to) responsibilities of the job, education, experience, knowledge, skills, and abilities, as well as internal equity, alignment with market data, applicable bargaining agreement (if any), or other law.\n\n#Featuredjob\n\nOriginal Posting Date:\n11/27/2023\n\nWhile subject to change based on business needs, Leidos reasonably anticipates that this job requisition will remain open for at least 3 days with an anticipated close date of no earlier than 3 days after the original posting date as listed above.",
+      "job_is_remote": false,
+      "job_posted_at_timestamp": 1706787425,
+      "job_posted_at_datetime_utc": "2024-02-01T11:37:05.000Z",
+      "job_city": "Great Falls",
+      "job_state": "VA",
+      "job_country": "US",
+      "job_latitude": 38.998165,
+      "job_longitude": -77.288315,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=developer&htidocid=G3oZuJGTjmUP5MvPAAAAAA%3D%3D",
+      "job_offer_expiration_datetime_utc": "2024-03-02T11:37:05.000Z",
+      "job_offer_expiration_timestamp": 1709379425,
+      "job_required_experience": {
+        "no_experience_required": false,
+        "required_experience_in_months": null,
+        "experience_mentioned": true,
+        "experience_preferred": false
+      },
+      "job_required_skills": null,
+      "job_required_education": {
+        "postgraduate_degree": false,
+        "professional_certification": false,
+        "high_school": false,
+        "associates_degree": false,
+        "bachelors_degree": false,
+        "degree_mentioned": false,
+        "degree_preferred": false,
+        "professional_certification_mentioned": false
+      },
+      "job_experience_in_place_of_education": false,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_currency": null,
+      "job_salary_period": null,
+      "job_highlights": {
+        "Qualifications": [
+          "A current and active TS/SCI with Polygraph security clearance is required for this position",
+          "Availability for periodic overnight travel to southeastern Virginia",
+          "Demonstrated experience developing, deploying, and maintaining software applications and systems",
+          "Demonstrated experience identifying and validating requirements for SharePoint sites, Software or Web sites",
+          "Demonstrated experience working in cloud AWS architecture",
+          "Demonstrated experience adding new features, optimizing, scaling, or improving stability and performance of applications, SharePoint or Web",
+          "Demonstrated experience using JavaScript (JS)",
+          "Java (e.g., Springboot, Maven, Apache), Typescript (e.g., Angular, NestJS, React, Vue), Javascript (NodeJS, Express, etc.), AWS Cloud Services (S3, RDS, SQS, Lambda, EC2, etc.), CI/CD familiarization, Linux proficiency",
+          "Experience with MySQL or equivalent (Postgres, SQL), developing complex data models, optimizing queries, and using Object Relational Mapping (ORM) frameworks such as TypeORM for typescript"
+        ],
+        "Responsibilities": [
+          "The Web Developer will work across multiple applications providing new development and O&M support",
+          "The client requires a Web Developer to join a team of three others to support to perform Operations and Maintenance (O&M) and development activities for websites and applications developed by the client team",
+          "This includes assessments and consultations on the design of Java web tools, O&M of existing applications, server management, and development of new applications",
+          "Applications reside in physical environments and the client's cloud environment",
+          "Client management shall set the priorities",
+          "Work closely with project manager, development team, information system security manager; however, the client project manager will manage the priorities",
+          "Provide occasional on call duty as needed",
+          "Assess and validate Software requirements across the client organization",
+          "Provide architectural design and web development support to meet web application requirements",
+          "Participate in software design discussions and recommend implementation of the tools, technologies and techniques",
+          "Redesign the existing Web, Software or SharePoint applications to add new features, optimize, scale or improve stability and performance",
+          "Create, manage, and maintain software systems in AWS",
+          "Provide O&M and content management support for client's Web, software and SharePoint Sites",
+          "Work within Agile project management methodologies"
+        ],
+        "Benefits": [
+          "Pay Range $108,550.00 - $196,225.00",
+          "The Leidos pay range for this job level is a general guideline only and not a guarantee of compensation or salary"
+        ]
+      },
+      "job_job_title": null,
+      "job_posting_language": "en",
+      "job_onet_soc": "15113400",
+      "job_onet_job_zone": "3",
+      "job_naics_code": "54133",
+      "job_naics_name": "Engineering Services"
+    },
+    {
+      "employer_name": "Get It Recruit - Information Technology",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJqZ-ENXlzeEKmwDdcuUzh--MI4913tUgdUBZs&s=0",
+      "employer_website": null,
+      "employer_company_type": null,
+      "job_publisher": "LinkedIn",
+      "job_id": "gmAMGy98Vk607iB0AAAAAA==",
+      "job_employment_type": "FULLTIME",
+      "job_title": "Front End Developer - Remote | WFH",
+      "job_apply_link": "https://www.linkedin.com/jobs/view/front-end-developer-remote-wfh-at-get-it-recruit-information-technology-3814295666",
+      "job_apply_is_direct": false,
+      "job_apply_quality_score": 0.6302,
+      "apply_options": [
+        {
+          "publisher": "LinkedIn",
+          "apply_link": "https://www.linkedin.com/jobs/view/front-end-developer-remote-wfh-at-get-it-recruit-information-technology-3814295666",
+          "is_direct": false
+        }
+      ],
+      "job_description": "We are currently seeking two talented Front-End Developers to join our dynamic team. Embrace the opportunity to work with us remotely while contributing to our innovative projects. Although the current setup is remote, we anticipate a transition to in-office work at our San Francisco headquarters in the future. As we continue to grow, we believe in providing endless opportunities for individuals committed to advancing their careers through hard work and dedication. Please note that, at this time, we can only consider applicants authorized to work in the United States on a permanent, full-time basis; unfortunately, we cannot provide visa sponsorship.\n\nWhat We Value\n\nFoster a spirit of innovation and collaboration within the development team and across the organization.\n\nCreate impactful and sustainable solutions to complex problems by embracing bold and measured risks.\n\nBalance technical excellence with a high Emotional Quotient (E.Q.), embodying empathy, awareness, and responsibility.\n\nGenerously share knowledge with peers to cultivate a culture of development excellence.\n\nQualifications\n\nMinimum of 3 years of experience as a front-end web developer.\n\nAt least 2 years of experience with TypeScript or modern JavaScript.\n\nProficiency in working with APIs (e.g., GraphQL, REST).\n\nExperience in building responsive websites and progressive web apps.\n\nProficient with modern CSS resources (e.g., SCSS, Foundation).\n\nSkilled in web development tools and debugging.\n\nFamiliarity with JavaScript unit test tools (e.g., Mocha, Jasmine, Jest).\n\nBonus: 2+ years of experience with a modern UI framework (e.g., ReactJS, Redux, VueJS).\n\nBonus: 1+ years working with Zeplin.io and other online style guide tools.\n\nBachelor’s degree in Computer Science or related field or equivalent work experience is a plus.\n\nJoin our team and be a part of an exciting journey where your contributions make a significant impact. We look forward to welcoming passionate and dedicated individuals to our growing community.\n\nEmployment Type: Full-Time",
+      "job_is_remote": true,
+      "job_posted_at_timestamp": 1706717729,
+      "job_posted_at_datetime_utc": "2024-01-31T16:15:29.000Z",
+      "job_city": "San Francisco",
+      "job_state": "CA",
+      "job_country": "US",
+      "job_latitude": 37.77493,
+      "job_longitude": -122.41942,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=developer&htidocid=gmAMGy98Vk607iB0AAAAAA%3D%3D",
+      "job_offer_expiration_datetime_utc": "2024-03-01T16:15:29.000Z",
+      "job_offer_expiration_timestamp": 1709309729,
+      "job_required_experience": {
+        "no_experience_required": false,
+        "required_experience_in_months": 36,
+        "experience_mentioned": true,
+        "experience_preferred": true
+      },
+      "job_required_skills": null,
+      "job_required_education": {
+        "postgraduate_degree": false,
+        "professional_certification": false,
+        "high_school": false,
+        "associates_degree": false,
+        "bachelors_degree": true,
+        "degree_mentioned": true,
+        "degree_preferred": true,
+        "professional_certification_mentioned": false
+      },
+      "job_experience_in_place_of_education": false,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_currency": null,
+      "job_salary_period": null,
+      "job_highlights": {
+        "Qualifications": [
+          "Minimum of 3 years of experience as a front-end web developer",
+          "At least 2 years of experience with TypeScript or modern JavaScript",
+          "Proficiency in working with APIs (e.g., GraphQL, REST)",
+          "Experience in building responsive websites and progressive web apps",
+          "Proficient with modern CSS resources (e.g., SCSS, Foundation)",
+          "Skilled in web development tools and debugging",
+          "Familiarity with JavaScript unit test tools (e.g., Mocha, Jasmine, Jest)",
+          "Bonus: 2+ years of experience with a modern UI framework (e.g., ReactJS, Redux, VueJS)",
+          "Bonus: 1+ years working with Zeplin.io and other online style guide tools"
+        ],
+        "Responsibilities": [
+          "Generously share knowledge with peers to cultivate a culture of development excellence"
+        ]
+      },
+      "job_job_title": null,
+      "job_posting_language": "en",
+      "job_onet_soc": "15113400",
+      "job_onet_job_zone": "3"
+    },
+    {
+      "employer_name": "Purdue University",
+      "employer_logo": "https://engineering.purdue.edu/ECE/Communications/files/PU-V-Full-RGB.png",
+      "employer_website": "https://www.purdue.edu",
+      "employer_company_type": "Education",
+      "job_publisher": "Purdue Careers - Purdue University",
+      "job_id": "OAF_GA5jawVwJIFVAAAAAA==",
+      "job_employment_type": "FULLTIME",
+      "job_title": "Application Developer",
+      "job_apply_link": "https://careers.purdue.edu/job/46909-Application-Developer-IN/962273900/",
+      "job_apply_is_direct": false,
+      "job_apply_quality_score": 0.9324,
+      "apply_options": [
+        {
+          "publisher": "Purdue Careers - Purdue University",
+          "apply_link": "https://careers.purdue.edu/job/46909-Application-Developer-IN/962273900/",
+          "is_direct": false
+        },
+        {
+          "publisher": "Talentify",
+          "apply_link": "https://www.talentify.io/job/application-developer-46909-in-purdue-university-22957",
+          "is_direct": false
+        }
+      ],
+      "job_description": "Job Summary\n\nThe Center for Environmental and Regulatory Information Systems (CERIS) is a recognized center at Purdue University which develops custom information solutions that help clients meet workflow and regulatory requirements using knowledge systems that manage, track, and analyze key data. Working in a team and collaborative environment, this position works under general supervision to design, develop, and install new software products or enhancements to existing software. It also includes but is not limited to enhancements to complex data reporting, web-based applications, and mapping applications.\n\nWhat You’ll be Doing\n• Application Development - Develop new and maintain (analyze and modify as necessary) existing applications written in a variety of programming languages. Design, code, test, and debug software. Interpret and document end-user information needs. Maintain system documentation.\n• Meetings – The application developer will participate in regularly scheduled meetings with other team members. These meetings may include other developers, project managers, leadership, and stakeholders.\n• Support - Produce status reports and other technical documentation as required. Occasional creation of PowerPoint presentations and posters, as well as formally presenting at user group meetings.\n\nWhat You Must Have\n• Bachelor’s degree in computer science, computer graphic technology, information systems, or related field\n• Two years of software development experience\n• In lieu of a degree, consideration will be given to an equivalent combination of related education and required work experience (Associates degree with 4 years of experience, High School/GED with 6 years of experience)\n• Systems analysis and programming skills\n• Ability to work independently on time-critical projects\n• Ability to work collaboratively\n• Strong communication skills – written and verbal\n\nWhat We Want You to Know\n• This posting represents two (2) vacancies\n• These positions are a hybrid work schedule\n• All new hires will be expected to follow Protect Purdue guidelines, https://bit.ly/3DH3z6f\n• Learn more about Purdue’s benefits summary, https://bit.ly/3llRBah\n• Purdue will not sponsor employment authorization for this position\n• A background check will be required for employment in this position\n• FLSA: Exempt (Not Eligible For Overtime)\n• Retirement Eligibility: Defined Contribution Waiting Period\n• Purdue University is an EOE/AA employer. All individuals, including minorities, women, individuals with disabilities, and veterans are encouraged to apply\n\nWhat You’ll Get in Return\n\nAll university employees are afforded a generous benefits package, https://www.purdue.edu/hr/benewell/index.php, including medical/dental/vision insurance, paid time off, and retirement contributions. As part of Purdue University’s expansive employee benefit package, the University is proud to offer its employees the opportunity to grow, learn, and advance by offering a tuition remission opportunity at both Purdue University and Purdue Global.\n\nTake Your Next Giant Leap\n\nWe never stop, we keep going, because Discovery is in our DNA, and we want you to discover a Career at Purdue University! Come work alongside a family of diverse culture with faculty, students, and staff who come together to become one, Boilermakers! Our greatest adventures are yet to come, and we want to include you.\n\nCome take your Next Giant Leap and Discover your next career!",
+      "job_is_remote": false,
+      "job_posted_at_timestamp": 1706688000,
+      "job_posted_at_datetime_utc": "2024-01-31T08:00:00.000Z",
+      "job_city": null,
+      "job_state": "IN",
+      "job_country": "US",
+      "job_latitude": 40.551216,
+      "job_longitude": -85.60236,
+      "job_benefits": [
+        "retirement_savings",
+        "health_insurance",
+        "dental_coverage",
+        "paid_time_off"
+      ],
+      "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=developer&htidocid=OAF_GA5jawVwJIFVAAAAAA%3D%3D",
+      "job_offer_expiration_datetime_utc": null,
+      "job_offer_expiration_timestamp": null,
+      "job_required_experience": {
+        "no_experience_required": false,
+        "required_experience_in_months": 48,
+        "experience_mentioned": true,
+        "experience_preferred": false
+      },
+      "job_required_skills": null,
+      "job_required_education": {
+        "postgraduate_degree": false,
+        "professional_certification": false,
+        "high_school": false,
+        "associates_degree": false,
+        "bachelors_degree": false,
+        "degree_mentioned": true,
+        "degree_preferred": true,
+        "professional_certification_mentioned": false
+      },
+      "job_experience_in_place_of_education": false,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_currency": null,
+      "job_salary_period": null,
+      "job_highlights": {
+        "Qualifications": [
+          "Bachelor’s degree in computer science, computer graphic technology, information systems, or related field",
+          "Two years of software development experience",
+          "In lieu of a degree, consideration will be given to an equivalent combination of related education and required work experience (Associates degree with 4 years of experience, High School/GED with 6 years of experience)",
+          "Systems analysis and programming skills",
+          "Ability to work independently on time-critical projects",
+          "Ability to work collaboratively",
+          "Strong communication skills – written and verbal",
+          "A background check will be required for employment in this position"
+        ],
+        "Responsibilities": [
+          "The Center for Environmental and Regulatory Information Systems (CERIS) is a recognized center at Purdue University which develops custom information solutions that help clients meet workflow and regulatory requirements using knowledge systems that manage, track, and analyze key data",
+          "Working in a team and collaborative environment, this position works under general supervision to design, develop, and install new software products or enhancements to existing software",
+          "It also includes but is not limited to enhancements to complex data reporting, web-based applications, and mapping applications",
+          "Application Development - Develop new and maintain (analyze and modify as necessary) existing applications written in a variety of programming languages",
+          "Design, code, test, and debug software",
+          "Interpret and document end-user information needs",
+          "Maintain system documentation",
+          "Meetings – The application developer will participate in regularly scheduled meetings with other team members",
+          "These meetings may include other developers, project managers, leadership, and stakeholders",
+          "Support - Produce status reports and other technical documentation as required",
+          "Occasional creation of PowerPoint presentations and posters, as well as formally presenting at user group meetings"
+        ],
+        "Benefits": [
+          "FLSA: Exempt (Not Eligible For Overtime)",
+          "Retirement Eligibility: Defined Contribution Waiting Period",
+          "All university employees are afforded a generous benefits package, https://www.purdue.edu/hr/benewell/index.php, including medical/dental/vision insurance, paid time off, and retirement contributions",
+          "As part of Purdue University’s expansive employee benefit package, the University is proud to offer its employees the opportunity to grow, learn, and advance by offering a tuition remission opportunity at both Purdue University and Purdue Global"
+        ]
+      },
+      "job_job_title": null,
+      "job_posting_language": "en",
+      "job_onet_soc": "15113200",
+      "job_onet_job_zone": "4",
+      "job_naics_code": "61",
+      "job_naics_name": "Education"
+    },
+    {
+      "employer_name": "Dice",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKlgydP7sElaJC9qPrtNHwBhyTMHYgii1RPWsy&s=0",
+      "employer_website": null,
+      "employer_company_type": "Information",
+      "job_publisher": "LinkedIn",
+      "job_id": "IPaB3632ibsDTYhOAAAAAA==",
+      "job_employment_type": "FULLTIME",
+      "job_title": "Sr Java cobol developer",
+      "job_apply_link": "https://www.linkedin.com/jobs/view/sr-java-cobol-developer-at-dice-3819588797",
+      "job_apply_is_direct": false,
+      "job_apply_quality_score": 0.6388,
+      "apply_options": [
+        {
+          "publisher": "LinkedIn",
+          "apply_link": "https://www.linkedin.com/jobs/view/sr-java-cobol-developer-at-dice-3819588797",
+          "is_direct": false
+        }
+      ],
+      "job_description": "Dice is the leading career destination for tech experts at every stage of their careers. Our client, SLiQ Information Technologies, is seeking the following. Apply via Dice today!\n\nTop 5 Skills Required:\n• 7+ years experience Cobol Development\n• 5+ years of experience in Java Development\n• Strong Communication Skills for Client Interaction\n• SQL\n• DB2\n\nKey Responsibilities:\n• Collaborate with IT teams and business partners on technical client solutions.\n• Engage in all software development stages: requirements, analysis, design, coding, testing, and implementation.\n• Provide prompt troubleshooting and debugging for customer service issues.\n• Develop and test efficient code, moving it through development and into production.\n• Maintain the mainframe using utilities like CA7, Endevor, IDPC, Infoman, and IOF.\n\nSr Java cobol developer",
+      "job_is_remote": true,
+      "job_posted_at_timestamp": 1706802970,
+      "job_posted_at_datetime_utc": "2024-02-01T15:56:10.000Z",
+      "job_city": null,
+      "job_state": null,
+      "job_country": "US",
+      "job_latitude": 37.09024,
+      "job_longitude": -95.71289,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=developer&htidocid=IPaB3632ibsDTYhOAAAAAA%3D%3D",
+      "job_offer_expiration_datetime_utc": "2024-03-02T15:56:10.000Z",
+      "job_offer_expiration_timestamp": 1709394970,
+      "job_required_experience": {
+        "no_experience_required": false,
+        "required_experience_in_months": 84,
+        "experience_mentioned": true,
+        "experience_preferred": false
+      },
+      "job_required_skills": null,
+      "job_required_education": {
+        "postgraduate_degree": false,
+        "professional_certification": false,
+        "high_school": false,
+        "associates_degree": false,
+        "bachelors_degree": true,
+        "degree_mentioned": false,
+        "degree_preferred": false,
+        "professional_certification_mentioned": false
+      },
+      "job_experience_in_place_of_education": false,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_currency": null,
+      "job_salary_period": null,
+      "job_highlights": {
+        "Qualifications": [
+          "7+ years experience Cobol Development",
+          "5+ years of experience in Java Development",
+          "Strong Communication Skills for Client Interaction",
+          "SQL",
+          "DB2"
+        ],
+        "Responsibilities": [
+          "Collaborate with IT teams and business partners on technical client solutions",
+          "Engage in all software development stages: requirements, analysis, design, coding, testing, and implementation",
+          "Provide prompt troubleshooting and debugging for customer service issues",
+          "Develop and test efficient code, moving it through development and into production",
+          "Maintain the mainframe using utilities like CA7, Endevor, IDPC, Infoman, and IOF"
+        ]
+      },
+      "job_job_title": null,
+      "job_posting_language": "en",
+      "job_onet_soc": "15113200",
+      "job_onet_job_zone": "4",
+      "job_naics_code": "519130",
+      "job_naics_name": "Internet Publishing and Broadcasting and Web Search Portals"
+    },
+    {
+      "employer_name": "Uline",
+      "employer_logo": "https://img.uline.com/is/image/uline/gnr_logo_blue?&wid=859&qlt=100",
+      "employer_website": "http://www.uline.com",
+      "employer_company_type": "Wholesale",
+      "job_publisher": "SaluteMyJob",
+      "job_id": "Brk_oKkyZOrrIn1-AAAAAA==",
+      "job_employment_type": "FULLTIME",
+      "job_title": "Software Developer - Web",
+      "job_apply_link": "https://salutemyjob.com/jobs/software-developer-web-somers-wisconsin/1222400198-2/",
+      "job_apply_is_direct": false,
+      "job_apply_quality_score": 0.572,
+      "apply_options": [
+        {
+          "publisher": "SaluteMyJob",
+          "apply_link": "https://salutemyjob.com/jobs/software-developer-web-somers-wisconsin/1222400198-2/",
+          "is_direct": false
+        },
+        {
+          "publisher": "KHON2 Jobs",
+          "apply_link": "https://jobs.khon2.com/jobs/software-developer-web-somers-wisconsin/1222400198-2/",
+          "is_direct": false
+        },
+        {
+          "publisher": "My Stateline Jobs",
+          "apply_link": "https://jobs.mystateline.com/jobs/software-developer-web-somers-wisconsin/1222400198-2/",
+          "is_direct": false
+        },
+        {
+          "publisher": "KNWA & FOX24 Jobs",
+          "apply_link": "https://jobs.nwahomepage.com/jobs/software-developer-web-somers-wisconsin/1222400198-2/",
+          "is_direct": false
+        },
+        {
+          "publisher": "WDTN Jobs",
+          "apply_link": "https://jobs.wdtn.com/jobs/software-developer-web-somers-wisconsin/1222400198-2/",
+          "is_direct": false
+        },
+        {
+          "publisher": "Big Country Jobs",
+          "apply_link": "https://jobs.bigcountryhomepage.com/jobs/software-developer-web-somers-wisconsin/1222400198-2/",
+          "is_direct": false
+        },
+        {
+          "publisher": "WAVY Jobs",
+          "apply_link": "https://jobs.wavy.com/jobs/software-developer-web-somers-wisconsin/1222400198-2/",
+          "is_direct": false
+        },
+        {
+          "publisher": "Aspire Media Group Jobs",
+          "apply_link": "https://jobs.aspiremediagroup.net/jobs/software-developer-web-somers-wisconsin/1222400198-2/",
+          "is_direct": false
+        }
+      ],
+      "job_description": "Software Developer - Web\n\nCorporate Headquarters\n\n12575 Uline Drive, Pleasant Prairie, WI 53158\n\nDevelop custom solutions and enjoy a great career at Uline. Bring your extensive skillset to a place ready to employ every facet of it. Collaborate on customer-facing and internal projects among a team of dedicated fellow developers.\n• Visa sponsorship potentially available for this position.\n\nBetter together than apart. This position is on-site, and we are looking for good people who share our passion.\n\nPosition Responsibilities\n• Apply industry best practices and cutting-edge techniques to design, develop, test, deploy, support and maintain sophisticated web applications based on business requirements.\n• Enhance and support our world-class e-commerce and mobile sites, along with sales, intranet and internal web applications.\n• Collaborate closely with the development team to ensure process consistency and timely completion of deliverables.\n• Conduct design and code reviews to help maintain code quality, performance and application responsiveness.\n\nMinimum Requirements\n• Bachelor's degree in Computer Science, Information Technology or a related field.\n• 2+ years of web development experience.\n• Strong understanding of object-oriented design, web application architecture and relational database design.\n• Proven experience in delivering web and e-commerce solutions using technologies like .NET, MVC, C# and JavaScript (jQuery or TypeScript).\n• Proficiency in writing T-SQL queries and stored procedures.\n• Experience in writing automated unit tests to ensure high-quality code.\n• Familiarity with Java, Agile methodology, Angular, Dynatrace, Cassandra or ELK a plus.\n\nBenefits\n• Complete medical, dental, vision and life insurance coverage, Flexible Spending Accounts and wellness programs.\n• 401(k) with 6% employer match.\n• Paid holidays and generous paid time off.\n• Tuition Assistance Program that covers professional continuing education.\n• Bonus programs that include annual performance, sales goals and profit sharing.\n\nEmployee Perks\n• On-site cafe with executive chefs and seasonal dinner-to-go options.\n• First-class fitness center with complimentary personal trainers.\n• Over four miles of beautifully maintained walking trails.\n\nAbout Uline\n\nUline is North America's leading distributor of shipping, industrial and packaging materials. We're a family-owned company known for incredible service, quality products and same-day shipping of our huge in-stock inventory. With over 9,000 employees across 13 locations, it's time you joined Uline.\n\nUline is proud to operate as a drug-free workplace. All new hires must complete a pre-employment hair follicle drug screening.\n\nEEO/AA Employer/Vet/Disabled\n\n#ZR-IT\n#LI-MW2\n#CORP\n\n(#IN-PPITDEV)\n\nOur employees make the difference and we are committed to offering exceptional benefits and perks! Explore to learn more!",
+      "job_is_remote": false,
+      "job_posted_at_timestamp": 1706710958,
+      "job_posted_at_datetime_utc": "2024-01-31T14:22:38.000Z",
+      "job_city": "Somers",
+      "job_state": "WI",
+      "job_country": "US",
+      "job_latitude": 42.640297,
+      "job_longitude": -87.910355,
+      "job_benefits": [
+        "retirement_savings",
+        "paid_time_off",
+        "health_insurance",
+        "dental_coverage"
+      ],
+      "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=developer&htidocid=Brk_oKkyZOrrIn1-AAAAAA%3D%3D",
+      "job_offer_expiration_datetime_utc": "2024-03-01T14:22:38.000Z",
+      "job_offer_expiration_timestamp": 1709302958,
+      "job_required_experience": {
+        "no_experience_required": false,
+        "required_experience_in_months": 24,
+        "experience_mentioned": true,
+        "experience_preferred": false
+      },
+      "job_required_skills": null,
+      "job_required_education": {
+        "postgraduate_degree": false,
+        "professional_certification": false,
+        "high_school": false,
+        "associates_degree": false,
+        "bachelors_degree": false,
+        "degree_mentioned": true,
+        "degree_preferred": true,
+        "professional_certification_mentioned": false
+      },
+      "job_experience_in_place_of_education": false,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_currency": null,
+      "job_salary_period": null,
+      "job_highlights": {
+        "Qualifications": [
+          "Bachelor's degree in Computer Science, Information Technology or a related field",
+          "2+ years of web development experience",
+          "Strong understanding of object-oriented design, web application architecture and relational database design",
+          "Proven experience in delivering web and e-commerce solutions using technologies like .NET, MVC, C# and JavaScript (jQuery or TypeScript)",
+          "Proficiency in writing T-SQL queries and stored procedures",
+          "Experience in writing automated unit tests to ensure high-quality code"
+        ],
+        "Responsibilities": [
+          "Bring your extensive skillset to a place ready to employ every facet of it",
+          "Apply industry best practices and cutting-edge techniques to design, develop, test, deploy, support and maintain sophisticated web applications based on business requirements",
+          "Enhance and support our world-class e-commerce and mobile sites, along with sales, intranet and internal web applications",
+          "Collaborate closely with the development team to ensure process consistency and timely completion of deliverables",
+          "Conduct design and code reviews to help maintain code quality, performance and application responsiveness"
+        ],
+        "Benefits": [
+          "Complete medical, dental, vision and life insurance coverage, Flexible Spending Accounts and wellness programs",
+          "401(k) with 6% employer match",
+          "Paid holidays and generous paid time off",
+          "Tuition Assistance Program that covers professional continuing education",
+          "Bonus programs that include annual performance, sales goals and profit sharing",
+          "Employee Perks",
+          "On-site cafe with executive chefs and seasonal dinner-to-go options",
+          "First-class fitness center with complimentary personal trainers",
+          "Over four miles of beautifully maintained walking trails"
+        ]
+      },
+      "job_job_title": null,
+      "job_posting_language": "en",
+      "job_onet_soc": "15113400",
+      "job_onet_job_zone": "3",
+      "job_naics_code": "423",
+      "job_naics_name": "Merchant Wholesalers, Durable Goods"
+    },
+    {
+      "employer_name": "Lakeshore Learning Materials, LLC",
+      "employer_logo": "https://img.lakeshorelearning.com/is/image/OCProduction/google-search-logo?wid=900",
+      "employer_website": "http://www.lakeshorelearning.com",
+      "employer_company_type": "Retail",
+      "job_publisher": "Smart Recruiters Jobs",
+      "job_id": "cFqov1zBFs-zIA8kAAAAAA==",
+      "job_employment_type": "FULLTIME",
+      "job_title": "Senior Software Developer (Remote)",
+      "job_apply_link": "https://jobs.smartrecruiters.com/Lakeshore/743999963863043-senior-software-developer-remote-",
+      "job_apply_is_direct": false,
+      "job_apply_quality_score": 0.7482,
+      "apply_options": [
+        {
+          "publisher": "Smart Recruiters Jobs",
+          "apply_link": "https://jobs.smartrecruiters.com/Lakeshore/743999963863043-senior-software-developer-remote-",
+          "is_direct": false
+        },
+        {
+          "publisher": "Monster",
+          "apply_link": "https://www.monster.com/job-openings/senior-software-developer-remote-long-beach-ca--6ef08053-9946-4b4c-967b-4c886db45c00",
+          "is_direct": false
+        },
+        {
+          "publisher": "Ladders",
+          "apply_link": "https://www.theladders.com/job/senior-software-developer-remote-lakeshorelearning-long-beach-ca_65900582",
+          "is_direct": false
+        },
+        {
+          "publisher": "Jooble",
+          "apply_link": "https://jooble.org/jdp/-4011223068595636488",
+          "is_direct": false
+        },
+        {
+          "publisher": "Channel People",
+          "apply_link": "https://www.channelpeople-us.com/job/qnxbsg78/senior-software-developer-remote",
+          "is_direct": false
+        },
+        {
+          "publisher": "Jobilize",
+          "apply_link": "https://www.jobilize.com/job/us-ca-long-beach-senior-software-developer-remote-careerbuilder-hiring",
+          "is_direct": false
+        }
+      ],
+      "job_description": "Company Description\n\nAt Lakeshore, we create innovative learning materials and world-class guest experiences for teachers, parents and children. Since 1954, we’ve grown into a global community—with a thriving e-commerce business, multiple catalogs, 60+ retail stores, a peerless national sales force, plus international offices that support our preeminent supply chain division. But today we’re working better, smarter and faster than ever—and setting our sights even higher. We’re building an infrastructure designed for scalability, embracing data-driven decision-making and using technology to improve efficiency and ensure the best tools for the best work. Most importantly, we continue to invest in a diverse team of inquisitive top talent who fuel each other’s passions and curiosity, take risks, try new things, and believe that every new day brings opportunities for growth.\n\nJob Description\n\nIn a time of unprecedented expansion, we are seeking a Senior Software Developer to join our Engineering team. In this position, you will play a crucial role in designing, developing and maintaining innovative web applications that provide exceptional user experiences. The role also requires working collaboratively across departments to translate business requirements into technical solutions, ensuring the seamless integration of front-end and back-end technologies. Applicants should have a solid understanding of software development best practices, such as testing, code reviews and documentation. The ideal candidate also has experience with cloud platforms (e.g., AWS) and deploying applications in cloud environments.\n\nA day in the office looks like this:\n• Collaborate with business and other developers to understand project requirements and translate them into technical deliverables\n• Design and implement scalable, responsive and user-friendly web applications with a focus on both front-end and back-end development\n• Develop well-structured and efficient code using appropriate programming languages and frameworks, ensuring high performance and maintainability\n• Create and maintain databases, APIs and server-side functionalities to support seamless dataflow and application functionality\n• Ensure the security and integrity of web applications by implementing best practices for authentication, authorization and data protection\n• Optimize applications for maximum speed and scalability, identifying and resolving performance bottlenecks as needed\n• Participate in support of existing suite of applications\n• Participate in code reviews, providing and receiving constructive feedback to maintain code quality and consistency across the team\n• Collaborate in an agile development environment, attending stand-ups and sprint planning\n• Contribute to the documentation of code, processes and best practices to facilitate knowledge sharing and onboarding of new team members\n\nQualifications\n\nGot the skills and experience? Here’s what we’re looking for:\n• Bachelor’s degree in subject of educational focus; Master’s degree preferred or equivalent experience\n• 5+ years of experience in architecting/designing/developing software solutions with particular emphasis on system integration\n• Proven experience as a Full Stack Developer or similar role, showcasing a strong portfolio of web applications developed\n• Strong back-end development skills, including proficiency in server-side languages (Python, Java, Node.js) and Django frameworks\n• Experience with relational database systems (e.g., SQL Server, PostgreSQL)\n• Familiarity with version control systems (e.g., Git) and collaborative development workflows\n• Understanding of Kafka architecture and concepts, and experience in using Kafka to build event-driven applications\n• Knowledge of RESTful APIs and the ability to design and consume them\n\nAdditional Information\n\nAnd here’s our end of the bargain!\n• Salary: $95,000-$120,000 with an annual bonus of up to 10%\n• Paid leave for new parents to support work/life balance and family bonding\n• Excellent medical/dental and vision coverage—EPO, PPO and HSA\n• 401(k) retirement plan with company contribution (because you will retire someday)\n• Flexible benefits—choose what you like, ignore the rest\n• On-site preschool for our employees’ children\n• On-site employee gym for all levels/fitness needs\n• Generous employee discount on products that make you smarter\n• Casual dress…and we really mean it\n\nAt Lakeshore, we know our diversity makes us stronger, and when everyone feels included and valued, we all win. We strive to embrace our differences and create an intentionally diverse and inclusive community that is representative of the teachers, families and children we serve.\n\nWe know we couldn’t do the extraordinary things we’re doing without the people on our team. Thanks to the passion and enthusiasm of this spectacular group, Lakeshore is more than a great place to work—it’s a great experience to be part of. Day in and day out, we give everything we’ve got to create products that instill a sense of wonder and foster a true love of learning. To help maintain this high bar for success, we’re constantly on the lookout for people to join us. So if you’re a down-to-earth professional who shares our desire for making a difference, we’d love to hear from you.\n\nTo learn more about Lakeshore, visit www.lakeshorelearning.com/careers\n\nEqual Employment Opportunity Policy\n\nPeople are selected to become members of the Lakeshore family based on skill, merit and mind-boggling talent—not based on race, color, creed, sexual orientation, gender or gender identity, marital status, domestic partnership status, military status, religion, age, national origin, ancestry, alienage, AIDS or AIDS-related complex status, genetic information, predisposition or carrier status, status as a victim of domestic violence, physical or mental disability, or any other characteristic protected by applicable law. If things aren’t equal, we all lose.\n\nTo learn about how we collect and use Applicant information, please visit our Employee/Applicant Privacy Policy. INDRLL11",
+      "job_is_remote": false,
+      "job_posted_at_timestamp": 1706553935,
+      "job_posted_at_datetime_utc": "2024-01-29T18:45:35.000Z",
+      "job_city": "Long Beach",
+      "job_state": "CA",
+      "job_country": "US",
+      "job_latitude": 33.77005,
+      "job_longitude": -118.19374,
+      "job_benefits": [
+        "retirement_savings",
+        "health_insurance",
+        "dental_coverage"
+      ],
+      "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=developer&htidocid=cFqov1zBFs-zIA8kAAAAAA%3D%3D",
+      "job_offer_expiration_datetime_utc": null,
+      "job_offer_expiration_timestamp": null,
+      "job_required_experience": {
+        "no_experience_required": false,
+        "required_experience_in_months": 60,
+        "experience_mentioned": true,
+        "experience_preferred": false
+      },
+      "job_required_skills": null,
+      "job_required_education": {
+        "postgraduate_degree": false,
+        "professional_certification": false,
+        "high_school": false,
+        "associates_degree": false,
+        "bachelors_degree": false,
+        "degree_mentioned": true,
+        "degree_preferred": true,
+        "professional_certification_mentioned": false
+      },
+      "job_experience_in_place_of_education": false,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_currency": null,
+      "job_salary_period": null,
+      "job_highlights": {
+        "Qualifications": [
+          "Applicants should have a solid understanding of software development best practices, such as testing, code reviews and documentation",
+          "The ideal candidate also has experience with cloud platforms (e.g., AWS) and deploying applications in cloud environments",
+          "5+ years of experience in architecting/designing/developing software solutions with particular emphasis on system integration",
+          "Proven experience as a Full Stack Developer or similar role, showcasing a strong portfolio of web applications developed",
+          "Strong back-end development skills, including proficiency in server-side languages (Python, Java, Node.js) and Django frameworks",
+          "Experience with relational database systems (e.g., SQL Server, PostgreSQL)",
+          "Familiarity with version control systems (e.g., Git) and collaborative development workflows",
+          "Understanding of Kafka architecture and concepts, and experience in using Kafka to build event-driven applications",
+          "Knowledge of RESTful APIs and the ability to design and consume them"
+        ],
+        "Responsibilities": [
+          "In this position, you will play a crucial role in designing, developing and maintaining innovative web applications that provide exceptional user experiences",
+          "The role also requires working collaboratively across departments to translate business requirements into technical solutions, ensuring the seamless integration of front-end and back-end technologies",
+          "Collaborate with business and other developers to understand project requirements and translate them into technical deliverables",
+          "Design and implement scalable, responsive and user-friendly web applications with a focus on both front-end and back-end development",
+          "Develop well-structured and efficient code using appropriate programming languages and frameworks, ensuring high performance and maintainability",
+          "Create and maintain databases, APIs and server-side functionalities to support seamless dataflow and application functionality",
+          "Ensure the security and integrity of web applications by implementing best practices for authentication, authorization and data protection",
+          "Optimize applications for maximum speed and scalability, identifying and resolving performance bottlenecks as needed",
+          "Participate in support of existing suite of applications",
+          "Participate in code reviews, providing and receiving constructive feedback to maintain code quality and consistency across the team",
+          "Collaborate in an agile development environment, attending stand-ups and sprint planning",
+          "Contribute to the documentation of code, processes and best practices to facilitate knowledge sharing and onboarding of new team members"
+        ],
+        "Benefits": [
+          "Salary: $95,000-$120,000 with an annual bonus of up to 10%",
+          "Paid leave for new parents to support work/life balance and family bonding",
+          "Excellent medical/dental and vision coverage—EPO, PPO and HSA",
+          "401(k) retirement plan with company contribution (because you will retire someday)",
+          "Flexible benefits—choose what you like, ignore the rest",
+          "On-site preschool for our employees’ children",
+          "On-site employee gym for all levels/fitness needs",
+          "Generous employee discount on products that make you smarter"
+        ]
+      },
+      "job_job_title": "Senior",
+      "job_posting_language": "en",
+      "job_onet_soc": "15113200",
+      "job_onet_job_zone": "4",
+      "job_naics_code": "452990",
+      "job_naics_name": "All Other General Merchandise Stores"
+    },
+    {
+      "employer_name": "Chase- Candidate Experience page",
+      "employer_logo": null,
+      "employer_website": null,
+      "employer_company_type": null,
+      "job_publisher": "JPMorgan Chase Login",
+      "job_id": "2MiFXdN1mI10YXO0AAAAAA==",
+      "job_employment_type": "FULLTIME",
+      "job_title": "Software Engineer III - Front End Developer",
+      "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210477154/?location=United+Kingdom&locationId=300000000289276&locationLevel=country&mode=location",
+      "job_apply_is_direct": false,
+      "job_apply_quality_score": 0.7518,
+      "apply_options": [
+        {
+          "publisher": "JPMorgan Chase Login",
+          "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210477154/?location=United+Kingdom&locationId=300000000289276&locationLevel=country&mode=location",
+          "is_direct": false
+        }
+      ],
+      "job_description": "We have an exciting and rewarding opportunity for you to take your software engineering career to the next level.\n\nAs a Software Engineer III at JPMorgan Chase within the Consumer and Community Banking's Global Bank Platform group, you serve as a seasoned member of an agile team to design and deliver trusted market-leading technology products in a secure, stable, and scalable way. You are responsible for carrying out critical technology solutions across multiple technical areas within various business functions in support of the firm’s business objectives.\n\nJob responsibilities\n• Executes software solutions, design, development, and technical troubleshooting with ability to think beyond routine or conventional approaches to build solutions or break down technical problems\n• Creates secure and high-quality production code and maintains algorithms that run synchronously with appropriate systems\n• Produces architecture and design artifacts for complex applications while being accountable for ensuring design constraints are met by software code development\n• Gathers, analyzes, synthesizes, and develops visualizations and reporting from large, diverse data sets in service of continuous improvement of software applications and systems\n• Proactively identifies hidden problems and patterns in data and uses these insights to drive improvements to coding hygiene and system architecture\n• Contributes to software engineering communities of practice and events that explore new and emerging technologies\n• Adds to team culture of diversity, equity, inclusion, and respect\n\nRequired qualifications, capabilities, and skills\n• Formal training or certification on software engineering concepts and 3+ years applied experience\n• Hands-on practical experience in system design, application development, testing, and operational stability\n• Proficient in coding in one or more languages\n• Experience in developing, debugging, and maintaining code in a large corporate environment with one or more modern programming languages and database querying languages\n• Overall knowledge of the Software Development Life Cycle\n• Solid understanding of agile methodologies such as CI/CD, Applicant Resiliency, and Security\n• Demonstrated knowledge of software applications and technical processes within a technical discipline (e.g., cloud, artificial intelligence, machine learning, mobile, etc.)\n\nPreferred qualifications, capabilities, and skills\n• Familiarity with modern front-end technologies\n• Exposure to cloud technologies",
+      "job_is_remote": false,
+      "job_posted_at_timestamp": 1706721582,
+      "job_posted_at_datetime_utc": "2024-01-31T17:19:42.000Z",
+      "job_city": null,
+      "job_state": "OH",
+      "job_country": "US",
+      "job_latitude": 40.417286,
+      "job_longitude": -82.90712,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=developer&htidocid=2MiFXdN1mI10YXO0AAAAAA%3D%3D",
+      "job_offer_expiration_datetime_utc": null,
+      "job_offer_expiration_timestamp": null,
+      "job_required_experience": {
+        "no_experience_required": false,
+        "required_experience_in_months": 36,
+        "experience_mentioned": true,
+        "experience_preferred": false
+      },
+      "job_required_skills": null,
+      "job_required_education": {
+        "postgraduate_degree": false,
+        "professional_certification": false,
+        "high_school": false,
+        "associates_degree": false,
+        "bachelors_degree": false,
+        "degree_mentioned": false,
+        "degree_preferred": false,
+        "professional_certification_mentioned": true
+      },
+      "job_experience_in_place_of_education": false,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_currency": null,
+      "job_salary_period": null,
+      "job_highlights": {
+        "Qualifications": [
+          "Formal training or certification on software engineering concepts and 3+ years applied experience",
+          "Hands-on practical experience in system design, application development, testing, and operational stability",
+          "Experience in developing, debugging, and maintaining code in a large corporate environment with one or more modern programming languages and database querying languages",
+          "Overall knowledge of the Software Development Life Cycle",
+          "Solid understanding of agile methodologies such as CI/CD, Applicant Resiliency, and Security",
+          "Demonstrated knowledge of software applications and technical processes within a technical discipline (e.g., cloud, artificial intelligence, machine learning, mobile, etc.)"
+        ],
+        "Responsibilities": [
+          "You are responsible for carrying out critical technology solutions across multiple technical areas within various business functions in support of the firm’s business objectives",
+          "Executes software solutions, design, development, and technical troubleshooting with ability to think beyond routine or conventional approaches to build solutions or break down technical problems",
+          "Creates secure and high-quality production code and maintains algorithms that run synchronously with appropriate systems",
+          "Produces architecture and design artifacts for complex applications while being accountable for ensuring design constraints are met by software code development",
+          "Gathers, analyzes, synthesizes, and develops visualizations and reporting from large, diverse data sets in service of continuous improvement of software applications and systems",
+          "Proactively identifies hidden problems and patterns in data and uses these insights to drive improvements to coding hygiene and system architecture",
+          "Contributes to software engineering communities of practice and events that explore new and emerging technologies",
+          "Adds to team culture of diversity, equity, inclusion, and respect"
+        ]
+      },
+      "job_job_title": "Software engineer",
+      "job_posting_language": "en",
+      "job_onet_soc": "15113400",
+      "job_onet_job_zone": "3"
+    },
+    {
+      "employer_name": "RemoteWorker US",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPmX_kOxfDz-v8rWg03-lIv68NbkYv-jMGKeOY&s=0",
+      "employer_website": null,
+      "employer_company_type": null,
+      "job_publisher": "LinkedIn",
+      "job_id": "w-NFjdndO5cKsFUBAAAAAA==",
+      "job_employment_type": "FULLTIME",
+      "job_title": "Developer (Work-from-Home ONLY)",
+      "job_apply_link": "https://www.linkedin.com/jobs/view/developer-work-from-home-only-at-remoteworker-us-3819161859",
+      "job_apply_is_direct": false,
+      "job_apply_quality_score": 0.6279,
+      "apply_options": [
+        {
+          "publisher": "LinkedIn",
+          "apply_link": "https://www.linkedin.com/jobs/view/developer-work-from-home-only-at-remoteworker-us-3819161859",
+          "is_direct": false
+        },
+        {
+          "publisher": "BeBee",
+          "apply_link": "https://us.bebee.com/job/20240130-b65fb42cc1edaa4c165bd6189d3e7f1c",
+          "is_direct": false
+        },
+        {
+          "publisher": "Jobs Trabajo.org",
+          "apply_link": "https://us.trabajo.org/job-2003-20240123-f74073cbe8232fc252105e5190335eeb",
+          "is_direct": false
+        },
+        {
+          "publisher": "Remoteworker.jobs",
+          "apply_link": "https://www.remoteworker.jobs/jobs/303522331-developer-work-from-home-only-at-fidelity-investments",
+          "is_direct": false
+        }
+      ],
+      "job_description": "We're looking for product-aware developers who are passionate, inquisitive, and responsible individuals to help deliver the best mobile experience to our customers! The ideal candidate is deeply entrenched in mobile development, with a passion for leveraging the right tools and frameworks to guide the development of stable, robust, and resilient apps that best serve our customer base.\n\nWe focus on creating rich and compelling native experiences leveraging the best iOS UI guidelines by way of robust tooling to provide deep, financial insights enabling ‘on the go’ financial management. 6+ years of professional experience developing publicly available iOS apps using Swift 5 and/or Objective-C ~ Verifiable experience as an iOS developer using Swift, Objective-C, Cocoa Touch, UIKit, and XCode in an agile environment ~ Fluency in Swift object-oriented and/or functional programming from industry working experience ~ Participated in the release of at least 1 publicly available app to the Apple App Store participating from inception to launch using automated tooling like Jenkins, Azure DevOps, and XCode toolchain ~ Experience working in a team of iOS developers participating in code reviews, pull requests, and pair programming. ~ Demonstrable experience mentoring and coaching other iOS developers in a collaborative and team-based organization.\n\nYour passion creating amazing experiences on iOS using Apple’s Human Interface Guidelines using your strong understanding of functional programming and reactive patterns using Combine or RxSwift Your desire to delight our clients with the latest mobile technologies using your deep knowledge of iOS architecture patterns including Clean Architecture and MVC. Your knowledge of the mobile landscape, architectures, trends, and emerging technologies used in creating performant, resilient, and robust iOS apps Excellent understanding of computer science fundamentals, data structures, and algorithms to ensure adherence to software engineering best practices including object-oriented and functional programming Excellent understanding of consuming RESTful web services, preferably using Apple-provided protocols Strong understanding of CI/CD tools such as Jenkins, Azure DevOps, and Artifactory to continuously and autonomously deliver high-quality apps to guarantee stable and performant experiences. Ability to use a long-term mentality to help produce scalable, maintainable solutions Good understanding of testing concepts and frameworks using XCTest and XCUITest, with a focus on DevSecOps Good understanding of Apple’s accessibility features and experience building accessible experiences Collaborating with architecture, security, and UXD to build architecturally compliant apps Partnering with platform squads to define mobile engineering standards, best practices, and tooling Staying ahead of the curve by aligning architecture, user experience, and security with chapters and COEs Company Overview Fidelity Investments is a privately held company with a mission to strengthen the financial well-being of our clients. We help people invest and plan for their future. We assist companies and non-profit organizations in delivering benefits to their employees. And we provide institutions and independent advisors with investment and technology solutions to help invest their own clients’ money. You can take advantage of flexible benefits that support you through every stage of your career, empowering you to thrive at work and at home. Most associates will have a hybrid schedule with a requirement to work onsite at a Fidelity work location for at least one week, 5 consecutive days, every four weeks. We believe that the most effective way to attract, develop and retain a diverse workforce is to build an enduring culture of inclusion and belonging. Fidelity will reasonably accommodate applicants with disabilities who need adjustments to participate in the application or interview process. This investigation includes but is not limited to a criminal, civil litigations and regulatory review, employment, education, and credit review (role dependent). These investigations will account for 7 years or more of history, depending on the role. Amphetamines, THC (marijuana), cocaine, opiates, phencyclidine. We welcome those with experience in jobs such as Software Developer, Computer Technician, and Computer User Support Specialist and others in the Computers and Technology to apply.",
+      "job_is_remote": false,
+      "job_posted_at_timestamp": 1706757205,
+      "job_posted_at_datetime_utc": "2024-02-01T03:13:25.000Z",
+      "job_city": "Durham",
+      "job_state": "NC",
+      "job_country": "US",
+      "job_latitude": 35.994034,
+      "job_longitude": -78.89862,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=developer&htidocid=w-NFjdndO5cKsFUBAAAAAA%3D%3D",
+      "job_offer_expiration_datetime_utc": "2024-03-02T03:13:26.000Z",
+      "job_offer_expiration_timestamp": 1709349206,
+      "job_required_experience": {
+        "no_experience_required": false,
+        "required_experience_in_months": 72,
+        "experience_mentioned": true,
+        "experience_preferred": false
+      },
+      "job_required_skills": null,
+      "job_required_education": {
+        "postgraduate_degree": false,
+        "professional_certification": false,
+        "high_school": false,
+        "associates_degree": false,
+        "bachelors_degree": true,
+        "degree_mentioned": false,
+        "degree_preferred": false,
+        "professional_certification_mentioned": false
+      },
+      "job_experience_in_place_of_education": false,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_currency": null,
+      "job_salary_period": null,
+      "job_highlights": {
+        "Qualifications": [
+          "6+ years of professional experience developing publicly available iOS apps using Swift 5 and/or Objective-C ~ Verifiable experience as an iOS developer using Swift, Objective-C, Cocoa Touch, UIKit, and XCode in an agile environment ~ Fluency in Swift object-oriented and/or functional programming from industry working experience ~ Participated in the release of at least 1 publicly available app to the Apple App Store participating from inception to launch using automated tooling like Jenkins, Azure DevOps, and XCode toolchain ~ Experience working in a team of iOS developers participating in code reviews, pull requests, and pair programming",
+          "~ Demonstrable experience mentoring and coaching other iOS developers in a collaborative and team-based organization",
+          "Your passion creating amazing experiences on iOS using Apple’s Human Interface Guidelines using your strong understanding of functional programming and reactive patterns using Combine or RxSwift Your desire to delight our clients with the latest mobile technologies using your deep knowledge of iOS architecture patterns including Clean Architecture and MVC",
+          "Your knowledge of the mobile landscape, architectures, trends, and emerging technologies used in creating performant, resilient, and robust iOS apps Excellent understanding of computer science fundamentals, data structures, and algorithms to ensure adherence to software engineering best practices including object-oriented and functional programming Excellent understanding of consuming RESTful web services, preferably using Apple-provided protocols Strong understanding of CI/CD tools such as Jenkins, Azure DevOps, and Artifactory to continuously and autonomously deliver high-quality apps to guarantee stable and performant experiences",
+          "Ability to use a long-term mentality to help produce scalable, maintainable solutions Good understanding of testing concepts and frameworks using XCTest and XCUITest, with a focus on DevSecOps Good understanding of Apple’s accessibility features and experience building accessible experiences Collaborating with architecture, security, and UXD to build architecturally compliant apps Partnering with platform squads to define mobile engineering standards, best practices, and tooling Staying ahead of the curve by aligning architecture, user experience, and security with chapters and COEs Company Overview Fidelity Investments is a privately held company with a mission to strengthen the financial well-being of our clients",
+          "Amphetamines, THC (marijuana), cocaine, opiates, phencyclidine",
+          "We welcome those with experience in jobs such as Software Developer, Computer Technician, and Computer User Support Specialist and others in the Computers and Technology to apply"
+        ],
+        "Benefits": [
+          "You can take advantage of flexible benefits that support you through every stage of your career, empowering you to thrive at work and at home",
+          "Most associates will have a hybrid schedule with a requirement to work onsite at a Fidelity work location for at least one week, 5 consecutive days, every four weeks"
+        ]
+      },
+      "job_job_title": null,
+      "job_posting_language": "en",
+      "job_onet_soc": "15113200",
+      "job_onet_job_zone": "4"
+    },
+    {
+      "employer_name": "Korn Ferry",
+      "employer_logo": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Korn-ferry-logo.jpg",
+      "employer_website": "http://www.kornferry.com",
+      "employer_company_type": "Consulting",
+      "job_publisher": "Interim Jobs | Korn Ferry",
+      "job_id": "aRP9cwWZ7-kOtMcSAAAAAA==",
+      "job_employment_type": "FULLTIME",
+      "job_title": "Java Developer",
+      "job_apply_link": "https://interimjobs.kornferry.com/jobs/java-developer-1664620?keywords=&location=",
+      "job_apply_is_direct": false,
+      "job_apply_quality_score": 0.6969,
+      "apply_options": [
+        {
+          "publisher": "Interim Jobs | Korn Ferry",
+          "apply_link": "https://interimjobs.kornferry.com/jobs/java-developer-1664620?keywords=&location=",
+          "is_direct": false
+        },
+        {
+          "publisher": "Indeed",
+          "apply_link": "https://www.indeed.com/viewjob?jk=2e1067b37caffa27",
+          "is_direct": false
+        },
+        {
+          "publisher": "Jora",
+          "apply_link": "https://us.jora.com/job/Java-Developer-a096b55930a5a05fc6aa20386da5968b",
+          "is_direct": false
+        }
+      ],
+      "job_description": "We have partnered with our client in their search for a Java Developer.\n\nResponsibilities:\n\nThis position should develop, deliver and support the Dispute Resolution platform. The objective for this role is to provide strong technical development background that leverages diverse back end services, relational databases and CI/CD.\n\n• Hands-on developer who writes high quality, secure code for a medium to large/complex component or feature that is modular, functional and testable (Java, Spring Boot, Jenkins or any other CI/CD platform, Microservices Architecture, Rest API’s)\n\n• Contributes to all parts of software development including design, development, documentation, testing and delivery in an individual capacity and as a lead for other junior developers on the team.\n\n• Have strong ownership of your team’s software and are deep in the maintenance characteristics, runtime properties and dependencies including hardware, operating system, and build.\n\n• Own complex problems having dependency across services and facilitate cross-functional team interactions to drive resolution\n\n• Communicate, collaborate and work effectively in a fast-paced environment.\n\nSkills Required:\n\n• Object-oriented Programming\n\n• Web services & API standards (REST/OAuth/JSON)\n\n• Programming & Scripting Languages (Java and Shell scripting preferred)\n\n• Spring, Spring Boot\n\n• Analytical and Problem-solving\n\n• Ability to operate effectively independently\n• Technical Communication (Written and Oral\n\nEducation & Work Experience:\n\nBS in Computer Science or related technical field or equivalent practical experience.\n\nTitle: Backend Developer\n\nLocation: O’Fallon, MO\n\nClient Industry: Credit Services\n\nReference ID: 1664620",
+      "job_is_remote": false,
+      "job_posted_at_timestamp": 1706659200,
+      "job_posted_at_datetime_utc": "2024-01-31T00:00:00.000Z",
+      "job_city": "O'Fallon",
+      "job_state": "MO",
+      "job_country": "US",
+      "job_latitude": 38.810608,
+      "job_longitude": -90.699844,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=developer&htidocid=aRP9cwWZ7-kOtMcSAAAAAA%3D%3D",
+      "job_offer_expiration_datetime_utc": null,
+      "job_offer_expiration_timestamp": null,
+      "job_required_experience": {
+        "no_experience_required": false,
+        "required_experience_in_months": null,
+        "experience_mentioned": true,
+        "experience_preferred": false
+      },
+      "job_required_skills": null,
+      "job_required_education": {
+        "postgraduate_degree": false,
+        "professional_certification": false,
+        "high_school": false,
+        "associates_degree": false,
+        "bachelors_degree": false,
+        "degree_mentioned": true,
+        "degree_preferred": true,
+        "professional_certification_mentioned": false
+      },
+      "job_experience_in_place_of_education": false,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_currency": null,
+      "job_salary_period": null,
+      "job_highlights": {
+        "Qualifications": [
+          "Object-oriented Programming",
+          "Web services & API standards (REST/OAuth/JSON)",
+          "Spring, Spring Boot",
+          "Analytical and Problem-solving",
+          "Ability to operate effectively independently",
+          "Technical Communication (Written and Oral",
+          "BS in Computer Science or related technical field or equivalent practical experience"
+        ],
+        "Responsibilities": [
+          "This position should develop, deliver and support the Dispute Resolution platform",
+          "The objective for this role is to provide strong technical development background that leverages diverse back end services, relational databases and CI/CD",
+          "Contributes to all parts of software development including design, development, documentation, testing and delivery in an individual capacity and as a lead for other junior developers on the team",
+          "Have strong ownership of your team’s software and are deep in the maintenance characteristics, runtime properties and dependencies including hardware, operating system, and build",
+          "Own complex problems having dependency across services and facilitate cross-functional team interactions to drive resolution",
+          "Communicate, collaborate and work effectively in a fast-paced environment"
+        ]
+      },
+      "job_job_title": null,
+      "job_posting_language": "en",
+      "job_onet_soc": "15113200",
+      "job_onet_job_zone": "4",
+      "job_naics_code": "541613",
+      "job_naics_name": "Marketing Consulting Services"
+    },
+    {
+      "employer_name": "Codebase Inc",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQve4x1b5x1TYHiqHBs_cJjiNIOgEAIoLdQg0HD&s=0",
+      "employer_website": null,
+      "employer_company_type": null,
+      "job_publisher": "LinkedIn",
+      "job_id": "paTGxqiMVfr9UF3mAAAAAA==",
+      "job_employment_type": "CONTRACTOR",
       "job_title": "Frontend Developer",
-      "country": "Portugal",
-      "job_employment_type": "Contract",
-      "date": "2024-06-31T15:59:59.138Z",
-      "description": "Please apply if you're sure you qualify for the position",
-      "job_id": 73930385,
-      "employer_logo": "https://t4.ftcdn.net/jpg/05/05/61/73/360_F_505617309_NN1CW7diNmGXJfMicpY9eXHKV4sqzO5H.jpg"
+      "job_apply_link": "https://www.linkedin.com/jobs/view/frontend-developer-at-codebase-inc-3820031926",
+      "job_apply_is_direct": false,
+      "job_apply_quality_score": 0.6797,
+      "apply_options": [
+        {
+          "publisher": "LinkedIn",
+          "apply_link": "https://www.linkedin.com/jobs/view/frontend-developer-at-codebase-inc-3820031926",
+          "is_direct": false
+        }
+      ],
+      "job_description": "Title: React Native Developer\n\nRole: Senior Software Mobile App Developer(React Native)\n\nYears of Experience: 10+ years\n\nLocation: Remote (Candidate has to go and meet inperson to the customer before getting onboarded)\n\nOur client is looking for a highly skilled Mobile Tech Lead to work in a strong React Native environment.\n\nYour responsibilities in this role will include:\n\n10-12 years of Mobile App development experience (in React Native).\n\nProficiency in Android and IOS. Experience working with cross-platform apps.\n\nClear understanding of software design patterns and principles.\n\nExperience guiding the continuous improvement of processes and technology.\n\nStrong sense of ownership.\n\nYou take responsibility for the success of the engineering teams.\n\nCommitment to quality. You take pride in everything you deliver as a reflection of yourself.\n\nSkills to have:\n\nNative Android/iOS, Flutter, React Native.",
+      "job_is_remote": true,
+      "job_posted_at_timestamp": 1706821984,
+      "job_posted_at_datetime_utc": "2024-02-01T21:13:04.000Z",
+      "job_city": null,
+      "job_state": null,
+      "job_country": "US",
+      "job_latitude": 37.09024,
+      "job_longitude": -95.71289,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=frontend+developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=frontend+developer&htidocid=paTGxqiMVfr9UF3mAAAAAA%3D%3D",
+      "job_offer_expiration_datetime_utc": "2024-03-02T21:13:04.000Z",
+      "job_offer_expiration_timestamp": 1709413984,
+      "job_required_experience": {
+        "no_experience_required": false,
+        "required_experience_in_months": 120,
+        "experience_mentioned": true,
+        "experience_preferred": false
+      },
+      "job_required_skills": null,
+      "job_required_education": {
+        "postgraduate_degree": false,
+        "professional_certification": false,
+        "high_school": false,
+        "associates_degree": false,
+        "bachelors_degree": true,
+        "degree_mentioned": false,
+        "degree_preferred": false,
+        "professional_certification_mentioned": false
+      },
+      "job_experience_in_place_of_education": false,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_currency": null,
+      "job_salary_period": null,
+      "job_highlights": {
+        "Qualifications": [
+          "Years of Experience: 10+ years",
+          "Location: Remote (Candidate has to go and meet inperson to the customer before getting onboarded)",
+          "10-12 years of Mobile App development experience (in React Native)",
+          "Proficiency in Android and IOS",
+          "Experience working with cross-platform apps",
+          "Clear understanding of software design patterns and principles",
+          "Experience guiding the continuous improvement of processes and technology",
+          "Strong sense of ownership",
+          "You take responsibility for the success of the engineering teams",
+          "You take pride in everything you deliver as a reflection of yourself",
+          "Native Android/iOS, Flutter, React Native"
+        ]
+      },
+      "job_job_title": null,
+      "job_posting_language": "en",
+      "job_onet_soc": "15113400",
+      "job_onet_job_zone": "3"
     },
     {
-      "job_title": "DevOps Developer",
-      "country": "Nigeria",
-      "job_employment_type": "Contract",
-      "date": "2023-12-31T15:59:59.138Z",
-      "description": "Please apply if you're sure you qualify for the position",
-      "job_id": 739303851,
-      "employer_logo": "https://t4.ftcdn.net/jpg/05/05/61/73/360_F_505617309_NN1CW7diNmGXJfMicpY9eXHKV4sqzO5H.jpg"
+      "employer_name": "Talentify.io",
+      "employer_logo": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=466619615446649",
+      "employer_website": "http://talentifyhr.com",
+      "employer_company_type": null,
+      "job_publisher": "LinkedIn",
+      "job_id": "6Hyxs2D6bc6i3KAMAAAAAA==",
+      "job_employment_type": "FULLTIME",
+      "job_title": "Front End Web Developer (REMOTE) - Javascript ($70.00 - $77.25 / hour)",
+      "job_apply_link": "https://www.linkedin.com/jobs/view/front-end-web-developer-remote-javascript-%2470-00-%2477-25-hour-at-talentify-io-3819379346",
+      "job_apply_is_direct": false,
+      "job_apply_quality_score": 0.6297,
+      "apply_options": [
+        {
+          "publisher": "LinkedIn",
+          "apply_link": "https://www.linkedin.com/jobs/view/front-end-web-developer-remote-javascript-%2470-00-%2477-25-hour-at-talentify-io-3819379346",
+          "is_direct": false
+        }
+      ],
+      "job_description": "Employer Industry: Web Development\n\nWhy Consider This Job Opportunity\n• Hourly pay up to $77.25\n• Possibility of contract extension\n• Opportunity to work remotely from California\n• Chance to work on high-volume/high-traffic websites\n• Experience with popular frameworks like React.js or Vue.js\n• Exposure to OOP PHP and GraphQL\n• Familiarity with observability tools for logs and performance monitoring\n\nWhat To Expect (Job Responsibilities)\n• Develop responsive websites using JavaScript\n• Read network panels and performance dashboards to optimize server-browser communication\n• Test code and applications for performance and correctness\n• Collaborate with teams to refine processes and improve design\n• Utilize CSS, Sass/LESS, and HTML to create visually appealing web applications\n\nWhat Is Required (Qualifications)\n• Minimum 5 years of experience in web application development using JavaScript\n• Proficiency in React.js or Vue.js\n• Understanding of Object-Oriented Programming and Design, data structures, and algorithms\n• Knowledge of CSS, Sass/LESS, HTML, and HTML DOM and Event APIs\n• Excellent communication skills\n\nHow To Stand Out (Preferred Qualifications)\n• Experience with frameworks like Symfony, Laravel, or Zend\n• Familiarity with Next.js and Node.js\n• Exposure to Docker and CI tools\n\n#WebDevelopment #JavaScript #RemoteWorkOpportunity #HighTrafficSites #React.js\n\nAt Talentify, we prioritize candidate privacy and champion equal-opportunity employment. Central to our mission is our partnership with companies that share this commitment. We aim to foster a fair, transparent, and secure hiring environment for all. If you encounter any employer not adhering to these principles, please bring it to our attention immediately.\n\nTalentify is not the EOR (Employer of Record) for this position. Our role in this specific opportunity is to connect outstanding candidates with a top-tier employer.\n\nTalentify helps candidates around the world to discover and stay focused on the jobs they want until they can complete a full application in the hiring company career page/ATS.",
+      "job_is_remote": true,
+      "job_posted_at_timestamp": 1706779787,
+      "job_posted_at_datetime_utc": "2024-02-01T09:29:47.000Z",
+      "job_city": null,
+      "job_state": null,
+      "job_country": "US",
+      "job_latitude": 37.09024,
+      "job_longitude": -95.71289,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=frontend+developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=frontend+developer&htidocid=6Hyxs2D6bc6i3KAMAAAAAA%3D%3D",
+      "job_offer_expiration_datetime_utc": "2024-03-02T09:29:47.000Z",
+      "job_offer_expiration_timestamp": 1709371787,
+      "job_required_experience": {
+        "no_experience_required": false,
+        "required_experience_in_months": 60,
+        "experience_mentioned": true,
+        "experience_preferred": false
+      },
+      "job_required_skills": null,
+      "job_required_education": {
+        "postgraduate_degree": false,
+        "professional_certification": false,
+        "high_school": false,
+        "associates_degree": false,
+        "bachelors_degree": true,
+        "degree_mentioned": false,
+        "degree_preferred": false,
+        "professional_certification_mentioned": false
+      },
+      "job_experience_in_place_of_education": false,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_currency": null,
+      "job_salary_period": null,
+      "job_highlights": {
+        "Qualifications": [
+          "Experience with popular frameworks like React.js or Vue.js",
+          "Exposure to OOP PHP and GraphQL",
+          "Minimum 5 years of experience in web application development using JavaScript",
+          "Proficiency in React.js or Vue.js",
+          "Understanding of Object-Oriented Programming and Design, data structures, and algorithms",
+          "Knowledge of CSS, Sass/LESS, HTML, and HTML DOM and Event APIs",
+          "Excellent communication skills"
+        ],
+        "Responsibilities": [
+          "Develop responsive websites using JavaScript",
+          "Read network panels and performance dashboards to optimize server-browser communication",
+          "Test code and applications for performance and correctness",
+          "Collaborate with teams to refine processes and improve design",
+          "Utilize CSS, Sass/LESS, and HTML to create visually appealing web applications"
+        ],
+        "Benefits": [
+          "Hourly pay up to $77.25",
+          "Possibility of contract extension",
+          "Opportunity to work remotely from California"
+        ]
+      },
+      "job_job_title": null,
+      "job_posting_language": "en",
+      "job_onet_soc": "15113400",
+      "job_onet_job_zone": "3"
     },
     {
+      "employer_name": "Upwork",
+      "employer_logo": "https://image.status.io/z6aeO6kAGsAG.png",
+      "employer_website": "http://www.elance.com",
+      "employer_company_type": "Computer Services",
+      "job_publisher": "Upwork",
+      "job_id": "rH0Lvy1gKTHFMvdaAAAAAA==",
+      "job_employment_type": "CONTRACTOR",
+      "job_title": "Frontend Developer - React",
+      "job_apply_link": "https://www.upwork.com/freelance-jobs/apply/Frontend-Developer-React_~0180887be0f638ed5e/",
+      "job_apply_is_direct": true,
+      "job_apply_quality_score": 0.6856,
+      "apply_options": [
+        {
+          "publisher": "Upwork",
+          "apply_link": "https://www.upwork.com/freelance-jobs/apply/Frontend-Developer-React_~0180887be0f638ed5e/",
+          "is_direct": true
+        }
+      ],
+      "job_description": "Looking for senior React/Next.js developer for existing next.js app project.\n\nYour first task will be the bug fixes.\n\nRequired skills:\n\n- Next.js, React, Tailwind CSS, Github\n\n- fluent English\n\n- Need to work by 3 pm EST\n\nIf you know kubernetes and backend skills, it would be huge plus.\n\nPlease apply if you can start immediately",
+      "job_is_remote": true,
+      "job_posted_at_timestamp": 1706788126,
+      "job_posted_at_datetime_utc": "2024-02-01T11:48:46.000Z",
+      "job_city": null,
+      "job_state": null,
+      "job_country": "US",
+      "job_latitude": 37.09024,
+      "job_longitude": -95.71289,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=frontend+developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=frontend+developer&htidocid=rH0Lvy1gKTHFMvdaAAAAAA%3D%3D",
+      "job_offer_expiration_datetime_utc": null,
+      "job_offer_expiration_timestamp": null,
+      "job_required_experience": {
+        "no_experience_required": false,
+        "required_experience_in_months": null,
+        "experience_mentioned": false,
+        "experience_preferred": false
+      },
+      "job_required_skills": [
+        "Next.js",
+        "React",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "TypeScript"
+      ],
+      "job_required_education": {
+        "postgraduate_degree": false,
+        "professional_certification": false,
+        "high_school": false,
+        "associates_degree": false,
+        "bachelors_degree": false,
+        "degree_mentioned": false,
+        "degree_preferred": false,
+        "professional_certification_mentioned": false
+      },
+      "job_experience_in_place_of_education": false,
+      "job_min_salary": 10,
+      "job_max_salary": 25,
+      "job_salary_currency": "USD",
+      "job_salary_period": "HOUR",
+      "job_highlights": {
+        "Qualifications": [
+          "Next.js, React, Tailwind CSS, Github",
+          "fluent English",
+          "Need to work by 3 pm EST",
+          "If you know kubernetes and backend skills, it would be huge plus"
+        ],
+        "Responsibilities": [
+          "Your first task will be the bug fixes"
+        ]
+      },
+      "job_job_title": null,
+      "job_posting_language": "en",
+      "job_onet_soc": "15113400",
+      "job_onet_job_zone": "3",
+      "job_naics_code": "541511",
+      "job_naics_name": "Custom Computer Programming Services"
+    },
+    {
+      "employer_name": "System Soft Technologies",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCseMeDWrTaeWg2eYnVvI5X7bdKBQqekh1C6JE&s=0",
+      "employer_website": null,
+      "employer_company_type": null,
+      "job_publisher": "LinkedIn",
+      "job_id": "5QjbsvVzgHCi9Ga5AAAAAA==",
+      "job_employment_type": "CONTRACTOR",
       "job_title": "Frontend Developer",
-      "country": "Portugal",
-      "job_employment_type": "Contract",
-      "date": "2024-02-31T15:59:59.138Z",
-      "description": "Please apply if you're sure you qualify for the position",
-      "job_id": 73930382,
-      "employer_logo": "https://t4.ftcdn.net/jpg/05/05/61/73/360_F_505617309_NN1CW7diNmGXJfMicpY9eXHKV4sqzO5H.jpg"
+      "job_apply_link": "https://www.linkedin.com/jobs/view/frontend-developer-at-system-soft-technologies-3817617116",
+      "job_apply_is_direct": false,
+      "job_apply_quality_score": 0.6817,
+      "apply_options": [
+        {
+          "publisher": "LinkedIn",
+          "apply_link": "https://www.linkedin.com/jobs/view/frontend-developer-at-system-soft-technologies-3817617116",
+          "is_direct": false
+        }
+      ],
+      "job_description": "Senior JavaScript Developer\n• **MUST be able to take a monitored JavaScript Coding Assessment***\n\nThis person needs to be a pure JavaScript Coder, that can write extensive code in Naked JavaScript, not just Vanilla JS, like React, or Angular.\n• Core JavaScript (Naked Java Script)\n• TypeScript\n• Experience developing Browser Extensions\n• Safari Extensions\n• Audio/Video\n\nContract to Hire\n\nRemote - Looking for individuals on West Coast (Pacific Time Zone).\n\nThey are looking for a great communicator, highly competent that is a thinker and can help grow the company (Not just a coder).\n\nOperating on Pacific time 8am – 5pm Pacific time.\n\nJob Description:\n\nIn this role you will ..\n\n• Immediately contribute to product outcomes and company growth\n\n• Work on bleeding edge technology in the streaming video and audio space\n\n• Collaborate with colleagues on product innovation and technical design\n\n• Design robust and reactive UI/UX that can adapt in a rapidly evolving user base\n\nMust-haves\n\n• 2-3 years experience in building highly intuitive and responsive UI/UX\n\n• Proven track record in web and multi-platform application development\n\n• Must be self-driven with the ability to plan and execute complex projects\n\n• Ability to generate robust and extensive documentation\n\n• Experience building browser extensions, preferably for the Safari browser\n• Seniority Level\n• Mid-Senior level\n• Industry\n• Audio and Video Equipment Manufacturing\n• Employment Type\n• Contract\n• Job Functions\n• Info\n•",
+      "job_is_remote": true,
+      "job_posted_at_timestamp": 1706715770,
+      "job_posted_at_datetime_utc": "2024-01-31T15:42:50.000Z",
+      "job_city": null,
+      "job_state": null,
+      "job_country": "US",
+      "job_latitude": 37.09024,
+      "job_longitude": -95.71289,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=frontend+developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=frontend+developer&htidocid=5QjbsvVzgHCi9Ga5AAAAAA%3D%3D",
+      "job_offer_expiration_datetime_utc": "2024-03-01T15:42:50.000Z",
+      "job_offer_expiration_timestamp": 1709307770,
+      "job_required_experience": {
+        "no_experience_required": false,
+        "required_experience_in_months": null,
+        "experience_mentioned": true,
+        "experience_preferred": false
+      },
+      "job_required_skills": null,
+      "job_required_education": {
+        "postgraduate_degree": false,
+        "professional_certification": false,
+        "high_school": false,
+        "associates_degree": false,
+        "bachelors_degree": true,
+        "degree_mentioned": false,
+        "degree_preferred": false,
+        "professional_certification_mentioned": false
+      },
+      "job_experience_in_place_of_education": false,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_currency": null,
+      "job_salary_period": null,
+      "job_highlights": {
+        "Qualifications": [
+          "**MUST be able to take a monitored JavaScript Coding Assessment***",
+          "This person needs to be a pure JavaScript Coder, that can write extensive code in Naked JavaScript, not just Vanilla JS, like React, or Angular",
+          "Experience developing Browser Extensions",
+          "They are looking for a great communicator, highly competent that is a thinker and can help grow the company (Not just a coder)",
+          "2-3 years experience in building highly intuitive and responsive UI/UX",
+          "Proven track record in web and multi-platform application development",
+          "Must be self-driven with the ability to plan and execute complex projects",
+          "Ability to generate robust and extensive documentation",
+          "Experience building browser extensions, preferably for the Safari browser",
+          "Seniority Level"
+        ],
+        "Responsibilities": [
+          "Immediately contribute to product outcomes and company growth",
+          "Work on bleeding edge technology in the streaming video and audio space",
+          "Collaborate with colleagues on product innovation and technical design",
+          "Design robust and reactive UI/UX that can adapt in a rapidly evolving user base"
+        ]
+      },
+      "job_job_title": null,
+      "job_posting_language": "en",
+      "job_onet_soc": "15113400",
+      "job_onet_job_zone": "3"
     },
     {
+      "employer_name": "Dice",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKlgydP7sElaJC9qPrtNHwBhyTMHYgii1RPWsy&s=0",
+      "employer_website": null,
+      "employer_company_type": "Information",
+      "job_publisher": "LinkedIn",
+      "job_id": "RTowDVZWQ3dUWIiUAAAAAA==",
+      "job_employment_type": "FULLTIME",
+      "job_title": "Front End Web Developer (REMOTE) - Javascript",
+      "job_apply_link": "https://www.linkedin.com/jobs/view/front-end-web-developer-remote-javascript-at-dice-3818584817",
+      "job_apply_is_direct": false,
+      "job_apply_quality_score": 0.6388,
+      "apply_options": [
+        {
+          "publisher": "LinkedIn",
+          "apply_link": "https://www.linkedin.com/jobs/view/front-end-web-developer-remote-javascript-at-dice-3818584817",
+          "is_direct": false
+        },
+        {
+          "publisher": "Media Bistro",
+          "apply_link": "https://www.mediabistro.com/jobs/158892566-front-end-web-developer-remote-javascript_",
+          "is_direct": false
+        },
+        {
+          "publisher": "Talentify",
+          "apply_link": "https://www.talentify.io/job/front-end-web-developer-remote-javascript-los-angeles-california-randstad-usa-1040378",
+          "is_direct": false
+        },
+        {
+          "publisher": "Talent.com",
+          "apply_link": "https://www.talent.com/view?id=0cdadac93fe8",
+          "is_direct": false
+        },
+        {
+          "publisher": "Adzuna",
+          "apply_link": "https://www.adzuna.com/details/4552270580",
+          "is_direct": false
+        },
+        {
+          "publisher": "JavaScript Jobs",
+          "apply_link": "https://javascriptjob.xyz/job/2bhC33BLpd5spg52PWIkZA7uaAs",
+          "is_direct": false
+        }
+      ],
+      "job_description": "Dice is the leading career destination for tech experts at every stage of their careers. Our client, Randstad Digital, is seeking the following. Apply via Dice today!\n\njob summary:\n\nWe are looking for a Front End Web Developer for a 1yr assignment - possible to extend!\n\nMust Haves:\n• Experience:\n• with large-scale browser-based delivery, working on high-volume/high-traffic sites\n• 5+ years with web application development using JavaScript\n• developing responsive websites\n• with React.js or Vue.js\n• reading network panels and performance dashboards (what happens between the server and the browser)\n• working with OOP PHP\n• Refined processes and how to \"Test\" code and applications for performance and correctness\n• BONUS working with GraphQL\n• BONUS working with Next.js and Node.js\n• BONUS with frameworks like Symfony or Laravel or Zend\n• BOUS Experience with observability tools for logs and performance monitoring\n• BONUS working in Media or Entertainment, Purchase/e-commerce streaming experience is a plus, Experience with companies that utilize store fronts with technology for credit card processing is a plus\n• Understanding:\n• of Object-Oriented Programming and Design, data structures, and algorithms\n• of web application development and best practices?\n• of Refined processes for Diagramming and Documentation to communicate design and ideas\n• of CSS, Sass/LESS, HTML\n• of HTML DOM and Event APIs\n• BONUS of Docker and CI tools\n• Soft skills\n• effective communication skills\n\nlocation: REMOTE, California\n\njob type: Contract\n\nsalary: $70.00 - 77.25 per hour\n\nwork hours: 9am to 6pm\n\neducation: Bachelors\n\nresponsibilities:\n\nWe are looking for a Front End Web Developer for a 1yr assignment - possible to extend!\n\nMust Haves:\n• Experience:\n• with large-scale browser-based delivery, working on high-volume/high-traffic sites\n• 5+ years with web application development using JavaScript\n• developing responsive websites\n• with React.js or Vue.js\n• reading network panels and performance dashboards (what happens between the server and the browser)\n• working with OOP PHP\n• Refined processes and how to \"Test\" code and applications for performance and correctness\n• BONUS working with GraphQL\n• BONUS working with Next.js and Node.js\n• BONUS with frameworks like Symfony or Laravel or Zend\n• BOUS Experience with observability tools for logs and performance monitoring\n• BONUS working in Media or Entertainment, Purchase/e-commerce streaming experience is a plus, Experience with companies that utilize store fronts with technology for credit card processing is a plus\n• Understanding:\n• of Object-Oriented Programming and Design, data structures, and algorithms\n• of web application development and best practices?\n• of Refined processes for Diagramming and Documentation to communicate design and ideas\n• of CSS, Sass/LESS, HTML\n• of HTML DOM and Event APIs\n• BONUS of Docker and CI tools\n• Soft skills\n• effective communication skills\n\nqualifications:\n• Experience level: Experienced\n• Minimum 5 years of experience\n• Education: Bachelors\n\nskills:\n• Javascript\n\nEqual Opportunity Employer: Race, Color, Religion, Sex, Sexual Orientation, Gender Identity, National Origin, Age, Genetic Information, Disability, Protected Veteran Status, or any other legally protected group status.\n\nAt Randstad Digital, we welcome people of all abilities and want to ensure that our hiring and interview process meets the needs of all applicants. If you require a reasonable accommodation to make your application or interview experience a great one, please contact\n\nPay offered to a successful candidate will be based on several factors including the candidate's education, work experience, work location, specific job duties, certifications, etc. In addition, Randstad Digital offers a comprehensive benefits package, including health, an incentive and recognition program, and 401K contribution (all benefits are based on eligibility).\n\nApplications accepted on ongoing basis until filled.\n\nQualified applicants in San Francisco with criminal histories will be considered for employment in accordance with the San Francisco Fair Chance Ordinance.\n\nWe will consider for employment all qualified Applicants, including those with criminal histories, in a manner consistent with the requirements of applicable state and local laws, including the City of Los Angeles' Fair Chance Initiative for Hiring Ordinance.",
+      "job_is_remote": true,
+      "job_posted_at_timestamp": 1706715609,
+      "job_posted_at_datetime_utc": "2024-01-31T15:40:09.000Z",
+      "job_city": null,
+      "job_state": null,
+      "job_country": "US",
+      "job_latitude": 37.09024,
+      "job_longitude": -95.71289,
+      "job_benefits": [
+        "retirement_savings",
+        "dental_coverage",
+        "health_insurance"
+      ],
+      "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=frontend+developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=frontend+developer&htidocid=RTowDVZWQ3dUWIiUAAAAAA%3D%3D",
+      "job_offer_expiration_datetime_utc": "2024-03-01T15:40:09.000Z",
+      "job_offer_expiration_timestamp": 1709307609,
+      "job_required_experience": {
+        "no_experience_required": false,
+        "required_experience_in_months": 60,
+        "experience_mentioned": true,
+        "experience_preferred": true
+      },
+      "job_required_skills": null,
+      "job_required_education": {
+        "postgraduate_degree": false,
+        "professional_certification": false,
+        "high_school": false,
+        "associates_degree": false,
+        "bachelors_degree": true,
+        "degree_mentioned": true,
+        "degree_preferred": false,
+        "professional_certification_mentioned": true
+      },
+      "job_experience_in_place_of_education": false,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_currency": null,
+      "job_salary_period": null,
+      "job_highlights": {
+        "Qualifications": [
+          "We are looking for a Front End Web Developer for a 1yr assignment - possible to extend!",
+          "5+ years with web application development using JavaScript",
+          "developing responsive websites",
+          "with React.js or Vue.js",
+          "Refined processes and how to \"Test\" code and applications for performance and correctness",
+          "BONUS working with Next.js and Node.js",
+          "BONUS with frameworks like Symfony or Laravel or Zend",
+          "BOUS Experience with observability tools for logs and performance monitoring",
+          "of Object-Oriented Programming and Design, data structures, and algorithms",
+          "of web application development and best practices?",
+          "of Refined processes for Diagramming and Documentation to communicate design and ideas",
+          "of CSS, Sass/LESS, HTML",
+          "of HTML DOM and Event APIs",
+          "BONUS of Docker and CI tools",
+          "Soft skills",
+          "effective communication skills",
+          "Experience level: Experienced",
+          "Minimum 5 years of experience",
+          "Education: Bachelors",
+          "We will consider for employment all qualified Applicants, including those with criminal histories, in a manner consistent with the requirements of applicable state and local laws, including the City of Los Angeles' Fair Chance Initiative for Hiring Ordinance"
+        ],
+        "Responsibilities": [
+          "reading network panels and performance dashboards (what happens between the server and the browser)",
+          "working with OOP PHP",
+          "work hours: 9am to 6pm"
+        ],
+        "Benefits": [
+          "salary: $70.00 - 77.25 per hour",
+          "Pay offered to a successful candidate will be based on several factors including the candidate's education, work experience, work location, specific job duties, certifications, etc",
+          "In addition, Randstad Digital offers a comprehensive benefits package, including health, an incentive and recognition program, and 401K contribution (all benefits are based on eligibility)"
+        ]
+      },
+      "job_job_title": null,
+      "job_posting_language": "en",
+      "job_onet_soc": "15113400",
+      "job_onet_job_zone": "3",
+      "job_naics_code": "519130",
+      "job_naics_name": "Internet Publishing and Broadcasting and Web Search Portals"
+    },
+    {
+      "employer_name": "Upwork",
+      "employer_logo": null,
+      "employer_website": null,
+      "employer_company_type": null,
+      "job_publisher": "Upwork",
+      "job_id": "lgDMwewe4mtolVB4AAAAAA==",
+      "job_employment_type": "CONTRACTOR",
+      "job_title": "Frontend Developer needed to participate in Mobile App Development",
+      "job_apply_link": "https://www.upwork.com/freelance-jobs/apply/Frontend-Developer-needed-participate-Mobile-App-Development_~0175171187c16d6385/",
+      "job_apply_is_direct": true,
+      "job_apply_quality_score": 0.7017,
+      "apply_options": [
+        {
+          "publisher": "Upwork",
+          "apply_link": "https://www.upwork.com/freelance-jobs/apply/Frontend-Developer-needed-participate-Mobile-App-Development_~0175171187c16d6385/",
+          "is_direct": true
+        }
+      ],
+      "job_description": "We are looking for an experienced front-end developer, proficient in flutter mobile application development to participate in a grocery delivery app project.\n\nResponsibilities:\n\n•Ensure code quality and maintain organizational structure\n\n• Implement methodologies\n\n• Collaborate with the Design Team to implement new UI design updates and keep direct communication with the designers.\n\n• +2 years of experience with Flutter\n\n• Experience in App Store submission\n\nKey Skills:\n\n• Proficient in applying SOLID principles\n\n• Hands-on experience deploying applications on iOS and Android platforms\n\n• Familiarity with and application of methodologies and best practices\n\n• Knowledgeable in state management, including GetX and other relevant frameworks\n\n• Maintain effective communication with an interdisciplinary team, offering detailed updates on the frontend aspects of the project\n\nRequired Tech Stack:\n\n• Proficiency in Git and Github for version control\n\n• Strong coordination abilities with backend and design teams\n\n• GraphQL",
+      "job_is_remote": true,
+      "job_posted_at_timestamp": 1706726642,
+      "job_posted_at_datetime_utc": "2024-01-31T18:44:02.000Z",
+      "job_city": null,
+      "job_state": null,
+      "job_country": "US",
+      "job_latitude": 37.09024,
+      "job_longitude": -95.71289,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=frontend+developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=frontend+developer&htidocid=lgDMwewe4mtolVB4AAAAAA%3D%3D",
+      "job_offer_expiration_datetime_utc": null,
+      "job_offer_expiration_timestamp": null,
+      "job_required_experience": {
+        "no_experience_required": false,
+        "required_experience_in_months": 24,
+        "experience_mentioned": true,
+        "experience_preferred": false
+      },
+      "job_required_skills": [
+        "Flutter",
+        "GitHub",
+        "GraphQL",
+        "Android",
+        "API Integration",
+        "App Store",
+        "getx",
+        "Mobile App Development"
+      ],
+      "job_required_education": {
+        "postgraduate_degree": false,
+        "professional_certification": false,
+        "high_school": false,
+        "associates_degree": false,
+        "bachelors_degree": false,
+        "degree_mentioned": false,
+        "degree_preferred": false,
+        "professional_certification_mentioned": false
+      },
+      "job_experience_in_place_of_education": false,
+      "job_min_salary": 10,
+      "job_max_salary": 25,
+      "job_salary_currency": "USD",
+      "job_salary_period": "HOUR",
+      "job_highlights": {
+        "Qualifications": [
+          "+2 years of experience with Flutter",
+          "Experience in App Store submission",
+          "Proficient in applying SOLID principles",
+          "Hands-on experience deploying applications on iOS and Android platforms",
+          "Familiarity with and application of methodologies and best practices",
+          "Knowledgeable in state management, including GetX and other relevant frameworks",
+          "Maintain effective communication with an interdisciplinary team, offering detailed updates on the frontend aspects of the project",
+          "Required Tech Stack:",
+          "Proficiency in Git and Github for version control",
+          "Strong coordination abilities with backend and design teams",
+          "GraphQL"
+        ],
+        "Responsibilities": [
+          "Ensure code quality and maintain organizational structure",
+          "Implement methodologies",
+          "Collaborate with the Design Team to implement new UI design updates and keep direct communication with the designers"
+        ]
+      },
+      "job_job_title": null,
+      "job_posting_language": "en",
+      "job_onet_soc": "15113400",
+      "job_onet_job_zone": "3"
+    },
+    {
+      "employer_name": "p2 media Werbeagentur GmbH & Co. KG",
+      "employer_logo": null,
+      "employer_website": null,
+      "employer_company_type": null,
+      "job_publisher": "Media Bistro",
+      "job_id": "q60lVjnJaeVoCjSOAAAAAA==",
+      "job_employment_type": "FULLTIME",
+      "job_title": "Senior Web Developer Frontend headless (vue.js)",
+      "job_apply_link": "https://www.mediabistro.com/jobs/33745181-senior-web-developer-frontend-headless-vue-js-",
+      "job_apply_is_direct": false,
+      "job_apply_quality_score": 0.5877,
+      "apply_options": [
+        {
+          "publisher": "Media Bistro",
+          "apply_link": "https://www.mediabistro.com/jobs/33745181-senior-web-developer-frontend-headless-vue-js-",
+          "is_direct": false
+        }
+      ],
+      "job_description": "We are a full-service agency for digital communication operating throughout Germany, specialized in developing and implementing complex online solutions. At our locations in Hamburg, Hanover, Minden and Düsseldorf, we support internationally active medium-sized companies and realize technically sophisticated websites as well as the associated online marketing activities.To strengthen our team we are looking for:Senior Web-Developer Frontend (m/w/d)TrainingWeekly refactoring in the teamFocussed workingLittle change between projectsCool projectsfor grateful clientsTalented teamProfessional exchange with like-minded people at eye levelRespectful interactionwithin the team, not only with clientsAgile workingModern methods and processes for less stressPromotion of trainingContractually guaranteed training opportunitiesKnowledge transferand online access to textbooks and training materialsTwo workplacesTwo workplaces with multi-monitor setup (Agency / Home)Latest hardwareApple Macbook (Air/Pro) incl. accessories also for private useHybrid workDecide for yourself where you want to workWork-life balanceFlexible working hours and breaksUnlimited employment contractwith probationary period and structured induction phase30 days holiday(full time)Additional overtime compensationDrinks & snacksCoffee, tea and various cold drinks as well as snacks free of chargeFeel good managementTeam colleague always has an open ear for your concernsFrontend and backend development in a team for complex customer projectsCross-device implementation of screen designsImplementation of templates in TYPO3 CMSConfiguration and maintenance of TYPO3 CMS, WordPress, MagentoTraining for clients and staff on editorial maintenance in the CMS (TYPO3 CMS, WordPress)Customer support for technical questions as well as maintenance and care of existing web applicationsOngoing and independent information gathering on new technologiesCompleted studies or comparable training in the field of web design/web developmentKnowledge of the latest standards and frameworks in frontend development as well as a good feel for usability and design trends, or functional and user-oriented design and its technical feasibilityKnowledge of Adobe Photoshop and IllustratorBasic understanding of programming in line with search enginesExperience with TYPO3 CMS, shop systems and WordPress, as well as in agile software developmentIndependent and solution-oriented approach to work, ability to work in a team, strong communication skills, high level of comprehension and fast implementation skillsGood knowledge of English is an advantagePlease send your application documents, including starting date and desired salary, to bewerbung@p2media.deIf you have any questions, please do not hesitate to contactMichael Kochat the following telephone number:#J-18808-Ljbffr",
+      "job_is_remote": false,
+      "job_posted_at_timestamp": 1706749200,
+      "job_posted_at_datetime_utc": "2024-02-01T01:00:00.000Z",
+      "job_city": null,
+      "job_state": null,
+      "job_country": "US",
+      "job_latitude": 37.09024,
+      "job_longitude": -95.71289,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=frontend+developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=frontend+developer&htidocid=q60lVjnJaeVoCjSOAAAAAA%3D%3D",
+      "job_offer_expiration_datetime_utc": null,
+      "job_offer_expiration_timestamp": null,
+      "job_required_experience": {
+        "no_experience_required": false,
+        "required_experience_in_months": null,
+        "experience_mentioned": true,
+        "experience_preferred": false
+      },
+      "job_required_skills": null,
+      "job_required_education": {
+        "postgraduate_degree": false,
+        "professional_certification": false,
+        "high_school": false,
+        "associates_degree": false,
+        "bachelors_degree": false,
+        "degree_mentioned": false,
+        "degree_preferred": false,
+        "professional_certification_mentioned": false
+      },
+      "job_experience_in_place_of_education": false,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_currency": null,
+      "job_salary_period": null,
+      "job_highlights": {},
+      "job_job_title": "Senior",
+      "job_posting_language": "en",
+      "job_onet_soc": "15113400",
+      "job_onet_job_zone": "3"
+    },
+    {
+      "employer_name": "Piper Companies",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv_kF8wsIeUotaNc7V4JzTVW3lHON902YCZemT&s=0",
+      "employer_website": null,
+      "employer_company_type": null,
+      "job_publisher": "LinkedIn",
+      "job_id": "4vQdVeVrUJHiRXRXAAAAAA==",
+      "job_employment_type": "FULLTIME",
+      "job_title": "Remote Front End Developer (REACT)",
+      "job_apply_link": "https://www.linkedin.com/jobs/view/remote-front-end-developer-react-at-piper-companies-3814203877",
+      "job_apply_is_direct": false,
+      "job_apply_quality_score": 0.6828,
+      "apply_options": [
+        {
+          "publisher": "LinkedIn",
+          "apply_link": "https://www.linkedin.com/jobs/view/remote-front-end-developer-react-at-piper-companies-3814203877",
+          "is_direct": false
+        },
+        {
+          "publisher": "Careers | Piper - Piper Companies",
+          "apply_link": "https://careers.pipercompanies.com/details/115264/remote_front_end_developer_react",
+          "is_direct": false
+        },
+        {
+          "publisher": "Monster",
+          "apply_link": "https://www.monster.com/job-openings/remote-front-end-developer-react-remote-or--56acdfdc-9dc9-40b9-b714-477454e26db5",
+          "is_direct": false
+        },
+        {
+          "publisher": "Dice.com",
+          "apply_link": "https://www.dice.com/job-detail/afef978d-6065-495b-8e9f-0a7c4f1a0cb2",
+          "is_direct": false
+        },
+        {
+          "publisher": "Remote Tribe",
+          "apply_link": "https://www.remotetribe.life/remotejobs/job/front-end-developer/",
+          "is_direct": false
+        },
+        {
+          "publisher": "Diverse And Remote",
+          "apply_link": "https://diverseandremote.com/jobs/piper-companies-front-end-developer/",
+          "is_direct": true
+        },
+        {
+          "publisher": "React Jobs",
+          "apply_link": "https://reactjsjob.com/job/2bhXrwqs62jCsTF6BJ1WX0TaXy9",
+          "is_direct": false
+        }
+      ],
+      "job_description": "Piper Companies is seeking a Front End Developer for a leading technology firm in the Raleigh-Durham, North Carolina area. The Front End Developer will join a world class data analytics organization with a highly skilled team responsible for the UI development of enterprise software applications. An ideal Front End Developer will have a passion for development and an active GitHub account. Candidate must work EST hours.\n\nResponsibilities for the Front End Developer include:\n• Write clean and intuitive interfaces with reliable, reusable, and scalable code\n• Work closely with various stakeholders such as product owners, developers, architects, and dev ops engineers.\n• Gather requirements and work with product owners to develop UIs and visualizations for the products\n• Research new technology and industry best practices\n\nRequirements for the Front End Developer include:\n• Over 5 years of UI web application development experience\n• 2 years of front end web development experience using react\n• Previous experience writing unit tests\n• Strong experience with typescript (react Hooks, WebPack, Material UI) and GIT\n• Bachelor’s Degree in Computer Science, Computer Engineering and/or relevant work experience\n\nCompensation of the Front End Developer includes:\n• $90,000 - $125,000 annually with a full comprehensive benefits\n• No relocation assistance, sponsorship, or C2C arrangements available\n\nKeywords: Front End Developer, Web Application Developer, Software Developer, Software Engineer, UI Engineer, Morrisville, Durham, Research Triangle Park, Cary, RTP, Raleigh, Apex, Wake Forest, North Carolina, NC",
+      "job_is_remote": true,
+      "job_posted_at_timestamp": 1706671695,
+      "job_posted_at_datetime_utc": "2024-01-31T03:28:15.000Z",
+      "job_city": null,
+      "job_state": null,
+      "job_country": "US",
+      "job_latitude": 37.09024,
+      "job_longitude": -95.71289,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=frontend+developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=frontend+developer&htidocid=4vQdVeVrUJHiRXRXAAAAAA%3D%3D",
+      "job_offer_expiration_datetime_utc": "2024-03-01T03:28:15.000Z",
+      "job_offer_expiration_timestamp": 1709263695,
+      "job_required_experience": {
+        "no_experience_required": false,
+        "required_experience_in_months": 60,
+        "experience_mentioned": true,
+        "experience_preferred": false
+      },
+      "job_required_skills": null,
+      "job_required_education": {
+        "postgraduate_degree": false,
+        "professional_certification": false,
+        "high_school": false,
+        "associates_degree": false,
+        "bachelors_degree": true,
+        "degree_mentioned": true,
+        "degree_preferred": true,
+        "professional_certification_mentioned": false
+      },
+      "job_experience_in_place_of_education": false,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_currency": null,
+      "job_salary_period": null,
+      "job_highlights": {
+        "Qualifications": [
+          "Over 5 years of UI web application development experience",
+          "2 years of front end web development experience using react",
+          "Previous experience writing unit tests",
+          "Strong experience with typescript (react Hooks, WebPack, Material UI) and GIT",
+          "Bachelor’s Degree in Computer Science, Computer Engineering and/or relevant work experience"
+        ],
+        "Responsibilities": [
+          "Write clean and intuitive interfaces with reliable, reusable, and scalable code",
+          "Work closely with various stakeholders such as product owners, developers, architects, and dev ops engineers",
+          "Gather requirements and work with product owners to develop UIs and visualizations for the products",
+          "Research new technology and industry best practices"
+        ],
+        "Benefits": [
+          "$90,000 - $125,000 annually with a full comprehensive benefits",
+          "No relocation assistance, sponsorship, or C2C arrangements available"
+        ]
+      },
+      "job_job_title": null,
+      "job_posting_language": "en",
+      "job_onet_soc": "15113400",
+      "job_onet_job_zone": "3"
+    },
+    {
+      "employer_name": "Upwork",
+      "employer_logo": "https://image.status.io/z6aeO6kAGsAG.png",
+      "employer_website": "http://www.elance.com",
+      "employer_company_type": "Computer Services",
+      "job_publisher": "Upwork",
+      "job_id": "eDoiklIdIDJhWdRqAAAAAA==",
+      "job_employment_type": "CONTRACTOR",
+      "job_title": "Front end developer",
+      "job_apply_link": "https://www.upwork.com/freelance-jobs/apply/Front-end-developer_~0150ccec1f68bd7ed9/",
+      "job_apply_is_direct": true,
+      "job_apply_quality_score": 0.6856,
+      "apply_options": [
+        {
+          "publisher": "Upwork",
+          "apply_link": "https://www.upwork.com/freelance-jobs/apply/Front-end-developer_~0150ccec1f68bd7ed9/",
+          "is_direct": true
+        }
+      ],
+      "job_description": "- Must have graduated university in the last 2-3yrs\n\n- Can commit at least 10-12hrs each week\n\n- Have experience with Git and understand how branching works in version control\n\n- Good communication\n\n- Be ready to use Discord\n\n- (Optional) have a side income in the form of full or part-time job",
+      "job_is_remote": true,
+      "job_posted_at_timestamp": 1706779230,
+      "job_posted_at_datetime_utc": "2024-02-01T09:20:30.000Z",
+      "job_city": null,
+      "job_state": null,
+      "job_country": "US",
+      "job_latitude": 37.09024,
+      "job_longitude": -95.71289,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=frontend+developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=frontend+developer&htidocid=eDoiklIdIDJhWdRqAAAAAA%3D%3D",
+      "job_offer_expiration_datetime_utc": null,
+      "job_offer_expiration_timestamp": null,
+      "job_required_experience": {
+        "no_experience_required": false,
+        "required_experience_in_months": 24,
+        "experience_mentioned": true,
+        "experience_preferred": false
+      },
+      "job_required_skills": [
+        "React",
+        "Git",
+        "PyQt",
+        "JavaScript",
+        "Python"
+      ],
+      "job_required_education": {
+        "postgraduate_degree": false,
+        "professional_certification": false,
+        "high_school": false,
+        "associates_degree": false,
+        "bachelors_degree": false,
+        "degree_mentioned": false,
+        "degree_preferred": false,
+        "professional_certification_mentioned": false
+      },
+      "job_experience_in_place_of_education": false,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_currency": null,
+      "job_salary_period": null,
+      "job_highlights": {
+        "Qualifications": [
+          "Must have graduated university in the last 2-3yrs",
+          "Can commit at least 10-12hrs each week",
+          "Have experience with Git and understand how branching works in version control",
+          "Good communication"
+        ]
+      },
+      "job_job_title": null,
+      "job_posting_language": "en",
+      "job_onet_soc": "15113400",
+      "job_onet_job_zone": "3",
+      "job_naics_code": "541511",
+      "job_naics_name": "Custom Computer Programming Services"
+    },
+    {
+      "employer_name": "Robbins Research International",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW5YyxhgejBmPK3A1mdETqUt9gabOMjrc-k8Ro&s=0",
+      "employer_website": null,
+      "employer_company_type": null,
+      "job_publisher": "LinkedIn",
+      "job_id": "urS-ggFSs5mLkKwnAAAAAA==",
+      "job_employment_type": "FULLTIME",
       "job_title": "Frontend Developer",
-      "country": "Portugal",
-      "job_employment_type": "Full-time",
-      "date": "2024-02-31T15:59:59.138Z",
-      "description": "Please apply if you're sure you qualify for the position",
-      "job_id": 73960385,
-      "employer_logo": "https://t4.ftcdn.net/jpg/05/05/61/73/360_F_505617309_NN1CW7diNmGXJfMicpY9eXHKV4sqzO5H.jpg"
-    },
-    {
-      "job_title": "UI/UX Designer",
-      "country": "Portugal",
-      "job_employment_type": "Part-time",
-      "date": "2023-10-31T15:59:59.138Z",
-      "description": "Please apply if you're sure you qualify for the position",
-      "job_id": 73936385,
-      "employer_logo": "https://t4.ftcdn.net/jpg/05/05/61/73/360_F_505617309_NN1CW7diNmGXJfMicpY9eXHKV4sqzO5H.jpg"
+      "job_apply_link": "https://www.linkedin.com/jobs/view/frontend-developer-at-robbins-research-international-3813654202",
+      "job_apply_is_direct": false,
+      "job_apply_quality_score": 0.6904,
+      "apply_options": [
+        {
+          "publisher": "LinkedIn",
+          "apply_link": "https://www.linkedin.com/jobs/view/frontend-developer-at-robbins-research-international-3813654202",
+          "is_direct": false
+        },
+        {
+          "publisher": "Glassdoor",
+          "apply_link": "https://www.glassdoor.com/job-listing/frontend-developer-robbins-research-international-inc-JV_KO0,18_KE19,53.htm?jl=1009087774445",
+          "is_direct": true
+        },
+        {
+          "publisher": "Indeed",
+          "apply_link": "https://www.indeed.com/viewjob?jk=04c45a13701e08fa",
+          "is_direct": true
+        },
+        {
+          "publisher": "Hireology",
+          "apply_link": "https://careers.hireology.com/robbinsresearchinternationalinc/1648209/description",
+          "is_direct": true
+        },
+        {
+          "publisher": "LazyApply",
+          "apply_link": "https://lazyapply.com/jobpreview/job_04c45a13701e08fa",
+          "is_direct": true
+        },
+        {
+          "publisher": "123work",
+          "apply_link": "https://123work.net/frontend-developer-7ajNOK4Mag",
+          "is_direct": false
+        },
+        {
+          "publisher": "Remote Jobs Feed",
+          "apply_link": "https://remotejobsfeed.com/job/frontend-developer-robbins-research-international/",
+          "is_direct": true
+        }
+      ],
+      "job_description": "Position: Front-end Developer\n\nLocation: Remote (USA) - for US based candidates only (Citizenship or US Greencard required)\n\nCompensation: $110,000-$120,000/year, EOY Bonus Potential, Company ESOP\n\n   Tony Robbins, Robbins Research International is the #1 personal development and peak performance strategy company in the world. Our mission is to redefine and create extraordinary client experiences in all personal development, sales, digital products, and corporate seminars that a cover wide range of topics, from mental conditioning, communication, business mastery, and personal achievement systems.\n\nPosition Overview:\n\nWe are seeking a skilled Front End Developer with a strong focus on Next.js to join our team. The ideal candidate will be responsible for maintaining and expanding our Next.js codebase in conjunction with our headless CMS. This role demands a high level of proficiency in front-end technologies and a deep understanding of modern JavaScript frameworks.\n\nKey Responsibilities:\n• Develop and maintain high-quality, reusable, and scalable code using Next.js.\n• Collaborate with the design team to implement user-friendly web interfaces.\n• Optimize applications for maximum speed and scalability.\n• Ensure the technical feasibility of UI/UX designs.\n• Integrate with headless CMS APIs for dynamic content management.\n• Work closely with backend developers to ensure seamless integration and deployment.\n• Keep up-to-date with emerging trends and technologies in web development.\n\nQualifications:\n• Bachelor's degree in Computer Science, Information Technology, or a related field. (Equivalent Experience Acceptable)\n• Minimum of 3 years of experience in front-end development.\n• Proficient in Next.js, React, HTML, CSS, and JavaScript (ES6+).\n• Experience with headless CMS platforms.\n• Familiarity with version control tools like Git.\n• Understanding of server-side rendering and static site generation in Next.js.\n• Strong problem-solving skills and attention to detail.\n\nPreferred Skills:\n• Experience with responsive and adaptive design.\n• Familiarity with SEO principles.\n• Knowledge of modern authorization mechanisms, such as JSON Web Tokens (JWT) and OAuth 2.0.\n• Experience with JS testing frameworks.\n• Experience with Salesforce, Hubspot and/or AWS preferred.\n\nPERKS & BENEFITS\n\n   Competitive salary and compensation package; starting within the $110,000-120,000 per year range, with EOY discretionary bonus potential\n\n   Company ESOP program (Employee Stock Ownership Program)\n\n   Incredible growth opportunities based on merit and performance\n\n  ️ Attend all Tony Robbins events and access to Tony Robbins content\n\n   Become part of an amazing team making a difference in the lives of others\n\nAPPLICATION INSTRUCTIONS\n\nWe want to hear directly from you on why you believe YOU are the best candidate for the position. To be considered, please complete a SparkHire video interview introducing yourself, your technical ackground as it relates to the position, and what interests you about the position.\n\nTo be considered, candidates must complete a SparkHire video interview through the following link: https://hire.li/Cqjqe8u9l1BbjMp9RqyJq\n\n--\n\nAbout Robbins Research International\n\nRobbins Research International is the gold standard in personal development and peak performance strategy. We don’t sell widgets, we change lives. Our culture is about defying the odds. Everything we do is about adding more value to people’s lives. We passionately believe in crafting extraordinary client experiences. Become a part of our mission to redefine the realms of personal development, business mastery, and achievement systems.\n\nTony Robbins has been transforming the lives of millions of people across the world for three and a half decades and has been honored by AMEX as one of 6 people in the world to help turn around their business. We are an established company with a 40-year track record as THE pioneers and premier name in the self-education and personal growth industry.",
+      "job_is_remote": true,
+      "job_posted_at_timestamp": 1706641148,
+      "job_posted_at_datetime_utc": "2024-01-30T18:59:08.000Z",
+      "job_city": null,
+      "job_state": null,
+      "job_country": "US",
+      "job_latitude": 37.09024,
+      "job_longitude": -95.71289,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=frontend+developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=frontend+developer&htidocid=urS-ggFSs5mLkKwnAAAAAA%3D%3D",
+      "job_offer_expiration_datetime_utc": "2024-02-29T18:59:08.000Z",
+      "job_offer_expiration_timestamp": 1709233148,
+      "job_required_experience": {
+        "no_experience_required": false,
+        "required_experience_in_months": 36,
+        "experience_mentioned": true,
+        "experience_preferred": true
+      },
+      "job_required_skills": null,
+      "job_required_education": {
+        "postgraduate_degree": false,
+        "professional_certification": false,
+        "high_school": false,
+        "associates_degree": false,
+        "bachelors_degree": true,
+        "degree_mentioned": true,
+        "degree_preferred": true,
+        "professional_certification_mentioned": false
+      },
+      "job_experience_in_place_of_education": false,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_currency": null,
+      "job_salary_period": null,
+      "job_highlights": {
+        "Qualifications": [
+          "Location: Remote (USA) - for US based candidates only (Citizenship or US Greencard required)",
+          "Bachelor's degree in Computer Science, Information Technology, or a related field",
+          "(Equivalent Experience Acceptable)",
+          "Minimum of 3 years of experience in front-end development",
+          "Proficient in Next.js, React, HTML, CSS, and JavaScript (ES6+)",
+          "Experience with headless CMS platforms",
+          "Familiarity with version control tools like Git",
+          "Understanding of server-side rendering and static site generation in Next.js",
+          "Strong problem-solving skills and attention to detail"
+        ],
+        "Responsibilities": [
+          "The ideal candidate will be responsible for maintaining and expanding our Next.js codebase in conjunction with our headless CMS",
+          "Develop and maintain high-quality, reusable, and scalable code using Next.js",
+          "Collaborate with the design team to implement user-friendly web interfaces",
+          "Optimize applications for maximum speed and scalability",
+          "Ensure the technical feasibility of UI/UX designs",
+          "Integrate with headless CMS APIs for dynamic content management",
+          "Work closely with backend developers to ensure seamless integration and deployment",
+          "Keep up-to-date with emerging trends and technologies in web development"
+        ],
+        "Benefits": [
+          "Compensation: $110,000-$120,000/year, EOY Bonus Potential, Company ESOP",
+          "   Competitive salary and compensation package; starting within the $110,000-120,000 per year range, with EOY discretionary bonus potential",
+          "   Company ESOP program (Employee Stock Ownership Program)"
+        ]
+      },
+      "job_job_title": null,
+      "job_posting_language": "en",
+      "job_onet_soc": "15113400",
+      "job_onet_job_zone": "3"
     }
   ]
 }

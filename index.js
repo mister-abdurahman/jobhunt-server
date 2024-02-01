@@ -23,7 +23,7 @@ const PORT = 3000;
 const data = fs.readFileSync(`${__dirname}/data/jobs.json`, "utf-8");
 const parsedData = JSON.parse(data);
 
-let parsedJobs = parsedData.jobs;
+let parsedJobs = parsedData.data;
 
 app.get("/", (req, res) => {
   res.status(200).json("Welcome to the Jobhunt server");
@@ -41,7 +41,7 @@ app.get("/jobs/:id", (req, res) => {
   const id = req.params.id;
 
   try {
-    const selectedJob = parsedJobs.find((el) => el.job_id === +id);
+    const selectedJob = parsedJobs.find((el) => el.job_id === id);
     if (selectedJob) return res.status(200).json(selectedJob);
     else throw new Error("Selected Id does not exist 😓");
     // res.status(200).json(getOneCity(id));
