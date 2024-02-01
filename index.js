@@ -41,8 +41,8 @@ app.get("/jobs/:id", (req, res) => {
   const id = req.params.id;
 
   try {
-    const citySelected = parsedJobs.find((el) => el.id === +id);
-    if (citySelected) return res.status(200).json(citySelected);
+    const selectedJob = parsedJobs.find((el) => el.job_id === +id);
+    if (selectedJob) return res.status(200).json(selectedJob);
     else throw new Error("Selected Id does not exist 😓");
     // res.status(200).json(getOneCity(id));
   } catch (error) {
